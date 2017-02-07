@@ -18,13 +18,13 @@ Open Items are noted with a %BLUE% Blue number %ENDCOLOR%
    * Work with XSEDE on SU definitions and obtaining accurate reports in XD-MOD.
 
 
-150. Subgroup to discuss with Jim Bottum and Barr Von Oehsen relationship opportunities and strategies between ACI-REF and OSG. (XSEDE – proposal by end of June; ACI-REF – 6-9 months, OSG – 18 months) *Complete*
+150. Subgroup to discuss with Jim Bottum and Barr Von Oehsen relationship opportunities and strategies between ACI-REF and OSG. (XSEDE - proposal by end of June; ACI-REF - 6-9 months, OSG - 18 months) *Complete*
    * Present status/results of the work at each Quarterly Council meeting   - David Swanson (Chair), Frank, Rob Gardner, Mark Neubauer
    * Reported in June at [[https://indico.fnal.gov/getFile.py/access?contribId=10&resId=0&materialId=slides&confId=10055]]. Agreed this closes the item and no further reports are needed.
 
 %BLUE% 149. %ENDCOLOR% Present to Council 1 page document on "Enabling Campus Resource Sharing and use of remote OSG resources in 15 minutes - Rob Gardner, Frank
 
-%BLUE% 148. %ENDCOLOR% Report back to the Council when an understanding of the constraints of Glow submissions to OSG (10K jobs in parallel?) are  understood – Bo
+%BLUE% 148. %ENDCOLOR% Report back to the Council when an understanding of the constraints of Glow submissions to OSG (10K jobs in parallel?) are  understood - Bo
 
 147.Present a report at each Council meeting of list of individuals using OSG outside of  ATLAS/CMS. -  Tanya Levshina *Complete*
    * Reported in June 2015 and Gratia reports now routinely produced.
@@ -80,7 +80,7 @@ Can find a mutual community  to work with OSG-Connect? - Miron, Chander, Lothar 
    * Stakeholder Request 66 being followed up by the Technology Area Coordinator
    * To be reported at Jan Council meeting
 
-135.Request project list the software components and prioritize the needs – Lothar/Technology Area *Complete*
+135.Request project list the software components and prioritize the needs - Lothar/Technology Area *Complete*
    * Stakeholder Request 67 being followed up by the Technology Area Coordinator
    * to be reported at Jan Council meeting
 
@@ -91,7 +91,7 @@ Can find a mutual community  to work with OSG-Connect? - Miron, Chander, Lothar 
    * Identify the work needed to make IF a full partner in OSG
    * IF accepted by DOE as a stakeholder for OSG with contributions from Fermilab and modicum of effort from the project. This is reflected in the Year 3 SOWs.
 %ENDCOLOR%
-132. Phone meeting between ESNET council member, Technical Director, Perfsonar lead, Michael Ernst (ESNET liaison), and IU contact to discuss OSG involvement in ESNET governance/planning. – Amber (On behalf of the Council) *Complete*
+132. Phone meeting between ESNET council member, Technical Director, Perfsonar lead, Michael Ernst (ESNET liaison), and IU contact to discuss OSG involvement in ESNET governance/planning. - Amber (On behalf of the Council) *Complete*
  %ORANGE%  
    *  Phone meeting held. 3 options of engagement: Full partnership requires contributions of 1.5 FTE to the perfsonar partnership; specific projects can be joint; OSG can participate in regular requirements gathering meetings. 
    * Greg Bell to present these options to Council meeting in Oct
@@ -214,7 +214,7 @@ Updates as a result of meeting between Council Chair, Executive Director, Projec
 
 = 98. =    Tell the VOs and users that they are expected to provide citations when the OSG is referenced. Follow up with council members on this -  Ruth.  *Follow up to come. *Complete*
    * Plan to work on this before the next annual report is due. Chander is asking for more help from Council and Consortium repreesentatives on the annual report and he and I will discuss this later this summer. 
-   * As we moved away from VOMS registration to submit nodes with a separate connection identity. Don’t expose people to an AUP and they don’t even see our request. Add it to the workflow when users see the system? Push notifications when get a job back.
+   * As we moved away from VOMS registration to submit nodes with a separate connection identity. Don't expose people to an AUP and they don't even see our request. Add it to the workflow when users see the system? Push notifications when get a job back.
    * Can we make it One citation not two?
 
 
@@ -232,14 +232,14 @@ Updates as a result of meeting between Council Chair, Executive Director, Projec
 
 94.  Proposal to continue discussion regarding Globus online with individual members of Council and add as agenda item for Feb. or March. %ORANGE%Discussion held. no further interest expressed. %ENDCOLOR% *DROPPED*
 
- 93.   Check “if a VO is using a file that is NOT a root file, will it work with AAA?” in response to a question from Gabriele. %ORANGE%Action item for Ken Bloom%ENDCOLOR% Answer is Yes. *Complete*
+ 93.   Check "if a VO is using a file that is NOT a root file, will it work with AAA?" in response to a question from Gabriele. %ORANGE%Action item for Ken Bloom%ENDCOLOR% Answer is Yes. *Complete*
 
 
 ---++ December 2012 Council Teleconference Action Items
 
 92.   Follow up with DZero contact Brad Abbott and talk to Piotr offline regarding EGI Community Forum workshop submissions. %ORANGE%Action item for Ruth%ENDCOLOR%  WENMR and SBGrid submitted a joint paper to EGI. *COMPLETE*
 
- 91. Provide a report of BOSCO downloads – this will be posted periodically under “Standing Items of the OSG Project”. %ORANGE%BOSCO project in hiatus/closed per ED report at Oct Council meeting %ENDCOLOR%  *CLOSED*
+ 91. Provide a report of BOSCO downloads - this will be posted periodically under "Standing Items of the OSG Project". %ORANGE%BOSCO project in hiatus/closed per ED report at Oct Council meeting %ENDCOLOR%  *CLOSED*
 
  90.    Discuss BES Community at Face to Face Council meeting and provide specific report from someone from community. %ORANGE%Action item for Michael Ernst, TBD%ENDCOLOR% In discussion it is determined that we should postpone this to await the outcomes of the current round of BES community discussions and plans in other forums. *COMPLETE*
 
@@ -262,12 +262,12 @@ Updates as a result of meeting between Council Chair, Executive Director, Projec
  Council Chair to send out a poll for the Council to vote on whether to accept the revised Proposed Charter for Second Subcommittee by October 24th. Action item for Ruth. An email vote was conducted. The [[https://twiki.grid.iu.edu/bin/view/Council/SC-IND][charge for this sub-committee]] was passed with 8 Yes (of which 2 had comments which the sub-committee will follow up on) and 8 no-votes; there are 2 unfilled positions. The OSG Charter says  1/5 of the membership of the Council constitutes a quorum.  *COMPLETE*
 
 83.  Executive Director to report on OSG opportunistic use at November 13th Council meeting. %ORANGE%Action item for Lothar%ENDCOLOR% 
-SBgrid was not getting as much work done as expected and a suspicion was that GLOW didn’t provide as many resources as expected. Chander monitored SBgrid front end on a daily basis for 4 weeks. Jobs were queuing up, peaks approaching 2K cores, no long tails on batch jobs waiting for work- From OSG point of view, no identifiable problem with SBgrid. Suggest investigating if this could be a local problem. *COMPLETE*
+SBgrid was not getting as much work done as expected and a suspicion was that GLOW didn't provide as many resources as expected. Chander monitored SBgrid front end on a daily basis for 4 weeks. Jobs were queuing up, peaks approaching 2K cores, no long tails on batch jobs waiting for work- From OSG point of view, no identifiable problem with SBgrid. Suggest investigating if this could be a local problem. *COMPLETE*
 
 ---++ September 2012 Council Teleconference Action Items
 82.   Investigate the bottlenecks GlueX researchers experienced at level of 2,000. %ORANGE% Action item for Chander %ENDCOLOR% Feedback from Glue-X: production has paused temporarily as we test a new revision of the simulation software. I expect to get back into production before the end of the calendar year, at which point I will be able to give feedback." Glue-x Currently starting new production run *COMPLETE*
 
-81.   Motion to accept Subcommittee #1’s charge this month or next (Bill Barnet, Horst Severini, Bob Clare and Paul Avery seconded this motion %ORANGE% Action item for Council%ENDCOLOR% *COMPLETE*
+81.   Motion to accept Subcommittee #1's charge this month or next (Bill Barnet, Horst Severini, Bob Clare and Paul Avery seconded this motion %ORANGE% Action item for Council%ENDCOLOR% *COMPLETE*
 
 80.   Post information regarding the stakeholder request system 1 week (Oct. 2) before the next teleconference. %ORANGE% Action item for Lothar%ENDCOLOR%  *COMPLETE"
 
@@ -289,13 +289,13 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 76.   Identify order of magnitude for total effort for specific response to compromise of DigiCert? plan- Chander request. %ORANGE% Action item for Von%ENDCOLOR% 
 
-75.   Is this team aware of any other enterprise that has actually implemented contingency steps in worst case event — have Europeans done this? -Chander question <No contingency plan at CERN -Bob Clare response %ORANGE%Action item for Von%ENDCOLOR% 
+75.   Is this team aware of any other enterprise that has actually implemented contingency steps in worst case event - have Europeans done this? -Chander question <No contingency plan at CERN -Bob Clare response %ORANGE%Action item for Von%ENDCOLOR% 
 
 74.   Recommendation for Council to accept Mine's analysis and planning, but would like to understand the impact/ preparations to guide the project. %ORANGE%Action item for Von%ENDCOLOR% 
 
 73.   Want better estimate regarding cost, ongoing maintenance contingency plans- Von request %ORANGE%Action item for Von%ENDCOLOR% 
 
-72.   Mine to analyze what’s most expensive after an incident vs. before and analyze this now as part of contingency planning/ recovery planning but put down effort on further risk assessment….have her concentrate more on training for transition etc.- Von suggestion %ORANGE%Action item for Von%ENDCOLOR% 
+72.   Mine to analyze what's most expensive after an incident vs. before and analyze this now as part of contingency planning/ recovery planning but put down effort on further risk assessment and have her concentrate more on training for transition etc.- Von suggestion %ORANGE%Action item for Von%ENDCOLOR% 
 
 71.   Provide further assurance/ details for LHC community regarding CA contingency plans -Michael Ernst. %ORANGE%Action item for Ruth%ENDCOLOR% 
 
@@ -311,7 +311,7 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 <i> 68-66  The Council Chair will post a rotation for Satellite reports before the October Council meeting </i> *COMPLETE*
 
-68.  Is the Council interested in having DASPOS within envelope of the consortium? (multi-disciplinary, international, covers VOs in OSG, NEES interested in, data & software preservation…) %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR% 
+68.  Is the Council interested in having DASPOS within envelope of the consortium? (multi-disciplinary, international, covers VOs in OSG, NEES interested in, data & software preservation) %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR% 
 
 67.   DASPOS discussion result of presentation- Vicky asked for clarification regarding coordination.  %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR%
 
@@ -394,9 +394,9 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 ---++ June 2012 Council Teleconference Action Items
 
-46.Describe the Vlab use case (“using our technology for their own benefit”) – it could be of benefit in multiple situations. (?). Followed up with Jeff McDonald. vlab VO dormant. no further action needed.*DROPPED*
+46.Describe the Vlab use case ("using our technology for their own benefit") - it could be of benefit in multiple situations. (?). Followed up with Jeff McDonald. vlab VO dormant. no further action needed.*DROPPED*
 
-45. Get a report on how many users are interested in Globus online. Do a survey in the next few months to see what communities are testing Globus online that are using OSG services. How many different VO’s are working with Globus online at this point? (work out a financial model in terms of how OSG would deal with this?)  (Ruth). Dropped in favor of Council report in January. *DROPPED*
+45. Get a report on how many users are interested in Globus online. Do a survey in the next few months to see what communities are testing Globus online that are using OSG services. How many different VO's are working with Globus online at this point? (work out a financial model in terms of how OSG would deal with this?)  (Ruth). Dropped in favor of Council report in January. *DROPPED*
  
 44. Set up a meeting or workshop to talk about networking in a month or so. Need to determine who to drive from OSG (Lothar). *Moved to OSG Project Complete*
 
@@ -431,7 +431,7 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 34. Approach stakeholders like US atlas to discuss OSG Cert. Authority transition process.(Mine) *Moved to August Council agenda*
 
-33. Make a risk assessment regarding CA’s disappearing and Executive Team to review. (Michael and Lothar and Executive team) *Moved to August Council agenda*
+33. Make a risk assessment regarding CA's disappearing and Executive Team to review. (Michael and Lothar and Executive team) *Moved to August Council agenda*
 
 32. Guidance from Council- what should we do different for satellites? (All) 
 
@@ -447,7 +447,7 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 27. Follow up with Executive Team by April 1st. (Lothar) *COMPLETE*
 
-26. Discuss next steps for International Outreach Program. <Only application Horst received was from Brazil, who couldn’t secure funds> (Council) *COMPLETE*
+26. Discuss next steps for International Outreach Program. <Only application Horst received was from Brazil, who couldn't secure funds> (Council) *COMPLETE*
 
 25. Modify bylaws to clarify interpretation of active member standing.  (Paul/Rick) *COMPLETE*
 
@@ -533,7 +533,7 @@ The motions are being followed up and the OSG Council will receive a report unde
    * Find effort within project to pay attention to requirements and gather them.How do OSG sites get involved?
    * Action: Talk to group and have them talk to Jim Basney.
    * Future Action: Implementing Bestman and Bestman II. (Task for FY12) Issue to come before council, commitment from OSG to have sustaining support/ work w/ communities that use.
-   * If something is missing from the “Goals to be prioritized in January” slide (4.2), let Alain know.
+   * If something is missing from the "Goals to be prioritized in January" slide (4.2), let Alain know.
    * At Site Administrators meeting in Texas next week, Alan will train people on how to do testing. RP wants representation from all communities there, if possible (See slide 28). If missing a community, tell RP.
 
 ---+++From Technical Director Report
@@ -543,9 +543,9 @@ The motions are being followed up and the OSG Council will receive a report unde
    * Future council meeting: poll VOs if they want to be a prototype tester (follow from NEEs archiving model)
 
 ---+++Council Members Talking to Sponsors
-   * US LHC JOG meeting in October- ATLAS/CMS, suggest that OSG is on the agenda.  Make sure they understand how Tier 3’s contribute to physics output. (Bob, Nick, have this discussion with the program Manager)
+   * US LHC JOG meeting in October- ATLAS/CMS, suggest that OSG is on the agenda.  Make sure they understand how Tier 3's contribute to physics output. (Bob, Nick, have this discussion with the program Manager)
    * Discussion w/ Executive team need for consortium members to help- US LHC Council members to follow up with funding agent, get participating institutions to contact agencies. Run 2 experiments to speak to spokespeople. Reach out to DOE, other members of council, encourage giving talks on your campus etc. 
-   * CDF and DZero go to Spoke’s, what would they say? Write something up with bullet points for each experiment (Refer to run 2 assessment document written last year defining dependency on OSG. Include chart with effort profile submitted to DOE/NSF i.e. Mass apply as major stakeholder to NIH?
+   * CDF and DZero go to Spoke's, what would they say? Write something up with bullet points for each experiment (Refer to run 2 assessment document written last year defining dependency on OSG. Include chart with effort profile submitted to DOE/NSF i.e. Mass apply as major stakeholder to NIH?
 
    * Owners:* Council
    * Date Originated:* August 2011
@@ -590,7 +590,7 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 ---++ August 2008 Face-to-Face Council Action Items
 
----+++ 1. *Promote the appointment of “Collective VO” representatives:*
+---+++ 1. *Promote the appointment of "Collective VO" representatives:*
 ---++++ *COMPLETED*
 
    * *Owners:* Kent Blackburn, Paul Avery, Shaowen Wang
@@ -624,7 +624,7 @@ The motions are being followed up and the OSG Council will receive a report unde
    * *Date Originated:* March 2009
    * *Date Completed:* Open
    * *Initial Recommendation:* Consider seeding some OSG sites with same 32-64 node MPI based clusters
-   * *Results of Action:* TBD; A proposal was submitted to funding agency; This action item is complete. The proposal was partially funded – the effort was funded and not the h/w. The project is a satellite. Dan Fraser is the technical lead and has/can report. 
+   * *Results of Action:* TBD; A proposal was submitted to funding agency; This action item is complete. The proposal was partially funded - the effort was funded and not the h/w. The project is a satellite. Dan Fraser is the technical lead and has/can report. 
 
 ---+++ 5. *Develop a plan to support virtual machine user/apps:*
 
@@ -736,7 +736,7 @@ http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=966
 
    * *Owners:* Ruth Pordes, John McGee, Vicky White, Michael Ernst, Doug Olson
 
-   * *Council Face to Face Endorsed this statement:* "The Open Science Grid (OSG) advances science through open distributed computing. The OSG is a multi-disciplinary partnership to federate local, regional, community and national cyberinfrastructures to meet the needs of research and academic communities at all scales. “
+   * *Council Face to Face Endorsed this statement:* "The Open Science Grid (OSG) advances science through open distributed computing. The OSG is a multi-disciplinary partnership to federate local, regional, community and national cyberinfrastructures to meet the needs of research and academic communities at all scales.
 
 ---+++ 6. Work to revise the Management Plan.
 
