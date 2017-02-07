@@ -795,15 +795,11 @@ Discussions held with XROADs and XSEDE teams. Separate letters of committment su
 May 2011 Face-to-Face Council Action Items
 ------------------------------------------
 
-1\. ET will come up with the impact/plan to inform funding agencies how it is - next JOG is October.
-2\. Ruth will work w/ Rob and ET to have a Strategic Plan discussions, input (council, stakeholders, users, staff), draft and review, by June 30.
-3\. Post All Hands March 19-23, 2012, on OSG home; announcements elsewhere.
-4\. For next council meeting, ET will cull the documents to say what council (including council chair) does now and present that. ET will circulate it one week before Aug meeting.
-5\. Michael Ernst talk with Bill Johnston and Steve Cotter and report to council co-chairs. Co-chairs will ask Kathy Yelick for a replacement for Bill.
-6\. Use of ATLAS opportunistic resources. This is a process other VOs could benefit from. It can be used as a template.
-7\. Kent and Rick will communicate the change of chair to Paul, and Rick to whole council.
-
--- Main.RuthPordes 9/11/2012
-
--   [suspension-100816.docx](%ATTACHURL%/suspension-100816.docx): Suggested changes to address inactive council representatives
+1. ET will come up with the impact/plan to inform funding agencies how it is - next JOG is October.
+2. Ruth will work w/ Rob and ET to have a Strategic Plan discussions, input (council, stakeholders, users, staff), draft and review, by June 30.
+3. Post All Hands March 19-23, 2012, on OSG home; announcements elsewhere.
+4. For next council meeting, ET will cull the documents to say what council (including council chair) does now and present that. ET will circulate it one week before Aug meeting.
+5. Michael Ernst talk with Bill Johnston and Steve Cotter and report to council co-chairs. Co-chairs will ask Kathy Yelick for a replacement for Bill.
+6. Use of ATLAS opportunistic resources. This is a process other VOs could benefit from. It can be used as a template.
+7. Kent and Rick will communicate the change of chair to Paul, and Rick to whole council.
 
