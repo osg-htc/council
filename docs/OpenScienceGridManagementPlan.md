@@ -45,7 +45,7 @@ A Scientific Advisory Group consisting of leading scientists provides guidance t
 
 The OSG Project delivers core services to the goals of the Consortium. The PI is responsible for the contractual obligations to the funding agencies, including the management of funds, reporting and contracts between the OSG Project and the funding agencies. The PI distributes funds through a sub-contract with each institution, as decided by the Executive Director guided by the Resources Manager and Executive Board. The Co-PIs assist the PI in their responsibilities. The PI is a member of the Council and Executive Board. The current organizational structure of the OSG is shown in Figure 2.
 
-![OSG Project Organization](OpenScienceGridManagementPlan_Figure_2.jpg)
+![OSG Project Organization](img/OpenScienceGridManagementPlan_Figure_2.jpg)
 
 ### Executive Team
 
