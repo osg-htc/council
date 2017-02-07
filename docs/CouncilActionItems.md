@@ -10,15 +10,15 @@ Open Items are noted with a %BLUE% Blue number %ENDCOLOR%
 March 2015 Council Action Items
 -------------------------------
 
-152. Pay attention to "Sound Bites" that communicate the scale and reach of OSG to outside agencies/projects - Rob G, Bo, Clemmie **Complete**
+152\. Pay attention to "Sound Bites" that communicate the scale and reach of OSG to outside agencies/projects - Rob G, Bo, Clemmie **Complete**
 
 -   OSG 1 page produced for Supercomputing 2015. Will also be available at the 2016 AHM
 
-151. Report back to Council on explanation for daily variations/swings in OSG-XD usage as displayed on the XDMOD daily plots - Bo, Mats **Complete**
+151\. Report back to Council on explanation for daily variations/swings in OSG-XD usage as displayed on the XDMOD daily plots - Bo, Mats **Complete**
 
 -   Work with XSEDE on SU definitions and obtaining accurate reports in XD-MOD.
 
-150. Subgroup to discuss with Jim Bottum and Barr Von Oehsen relationship opportunities and strategies between ACI-REF and OSG. (XSEDE - proposal by end of June; ACI-REF - 6-9 months, OSG - 18 months) **Complete**
+150\. Subgroup to discuss with Jim Bottum and Barr Von Oehsen relationship opportunities and strategies between ACI-REF and OSG. (XSEDE - proposal by end of June; ACI-REF - 6-9 months, OSG - 18 months) **Complete**
 
 -   Present status/results of the work at each Quarterly Council meeting - David Swanson (Chair), Frank, Rob Gardner, Mark Neubauer
 -   Reported in June at <https://indico.fnal.gov/getFile.py/access?contribId=10&resId=0&materialId=slides&confId=10055>. Agreed this closes the item and no further reports are needed.
@@ -27,69 +27,67 @@ March 2015 Council Action Items
 
 %BLUE% 148. %ENDCOLOR% Report back to the Council when an understanding of the constraints of Glow submissions to OSG (10K jobs in parallel?) are understood - Bo
 
-147.Present a report at each Council meeting of list of individuals using OSG outside of ATLAS/CMS. - Tanya Levshina **Complete**
+147\. Present a report at each Council meeting of list of individuals using OSG outside of ATLAS/CMS. - Tanya Levshina **Complete**
 
 -   Reported in June 2015 and Gratia reports now routinely produced.
 
-146. End to end test of using GPU resources through OSG. - Rob Quick, Brian Bockelman *Complete*
+146\. End to end test of using GPU resources through OSG. - Rob Quick, Brian Bockelman *Complete*
 
 -   Accomplished as part of the LIGO support work
 
 October 2014 Council Action Items
 ---------------------------------
 
-145. Report on experience with using GPU for SBGrid - Brian, Piotr **Complete**
+145\. Report on experience with using GPU for SBGrid - Brian, Piotr **Complete**
 
 -   Report from Mick Timony at the Marc Council meeting. SBGrid updating their software. Will be some time before results. Council and project are interested in them. <https://docs.google.com/presentation/d/1nlWDr7sg764PP-TsFFSAGyou7HdMKCXqXLFgMBy397M/edit?usp=sharing>
 
-144. Organize a report on summer school metrics and possible model changes for summer school at the Mar AHM Council meeting - Lothar. **Dropped**
+144\. Organize a report on summer school metrics and possible model changes for summer school at the Mar AHM Council meeting - Lothar. **Dropped**
 
-143. Present XDMOD summaries at each Council meeting - Ruth **Complete**
+143\. Present XDMOD summaries at each Council meeting - Ruth **Complete**
 
-142. User Support/ACI-REF engagement - cover case for when univ already has a condor pool. Chander to talk to Lauren. (Chander) **Complete**
+142\. User Support/ACI-REF engagement - cover case for when univ already has a condor pool. Chander to talk to Lauren. (Chander) **Complete**
 
 -   Emilie has given training to ACI REF.
 
-141.Answer what is demand limited and what is limited by availability of resources - Bo. **Complete**
+141\. Answer what is demand limited and what is limited by availability of resources - Bo. **Complete**
 
 -   In general things are always demand limited.
 
-&lt;hr&gt; **All Action items below 141 are complete, dropped or closed**
+**All Action items below 141 are complete, dropped or closed**
 
-&lt;hr&gt;
-
-140. Restablish some VO Forum for all opportunistic VOs who come to the table. Include understanding of how to include project information. **Complete**
+140\. Restablish some VO Forum for all opportunistic VOs who come to the table. Include understanding of how to include project information. **Complete**
 
 April 2014 Council Action Items
 -------------------------------
 
-139. Council and project to investigate possible synergies and collaborative activities between OSG and ACI REF. Can find a mutual community to work with OSG-Connect? - Miron, Chander, Lothar **Complete**
+139\. Council and project to investigate possible synergies and collaborative activities between OSG and ACI REF. Can find a mutual community to work with OSG-Connect? - Miron, Chander, Lothar **Complete**
 
 -   Chander to follow up before Oct Council meeting and report back there.
 -   Chander and Miron reported at Oct Council meeting
 -   will have regular reports as for OSG-XD given the importance seen in this partnership.
 
-138. Document the conditions to select OSG-Connect or OSG-Direct for a new community? - Chander **Complete**
+138\. Document the conditions to select OSG-Connect or OSG-Direct for a new community? - Chander **Complete**
 
 -   User Support plans to think about this over the next year.
 -   Brochure on the options when a new user/campus/resource comes to the table
 -   front door moved to Campus Infrastructure and the instructions for OSGConnect.
 
-137. Also think about community allocations, gateways how we want to advise on this **Dropped**
+137\. Also think about community allocations, gateways how we want to advise on this **Dropped**
 
-136. Request project to identify the scalability limits for the various OSG services in preparation for LHC Run2 (X2 in computing/data throughput needed) - Lothar/Technology Area **Complete**
+136\. Request project to identify the scalability limits for the various OSG services in preparation for LHC Run2 (X2 in computing/data throughput needed) - Lothar/Technology Area **Complete**
 
 -   Stakeholder Request 66 being followed up by the Technology Area Coordinator
 -   To be reported at Jan Council meeting
 
-135.Request project list the software components and prioritize the needs - Lothar/Technology Area **Complete**
+135\.Request project list the software components and prioritize the needs - Lothar/Technology Area **Complete**
 
 -   Stakeholder Request 67 being followed up by the Technology Area Coordinator
 -   to be reported at Jan Council meeting
 
-134. What are concrete actions Consortium stakeholders would ask OSG to take on wrt clouds, cloud federations. - Ruth **Dropped in favor of the project defining directions**
+134\. What are concrete actions Consortium stakeholders would ask OSG to take on wrt clouds, cloud federations. - Ruth **Dropped in favor of the project defining directions**
 
-133. Estimate the impact of supporting the Intensity Frontier experiments at a production level of service. - Chander, Ruth **Complete** %ORANGE%
+133\. Estimate the impact of supporting the Intensity Frontier experiments at a production level of service. - Chander, Ruth **Complete** %ORANGE%
 
 -   Identify the work needed to make IF a full partner in OSG
 -   IF accepted by DOE as a stakeholder for OSG with contributions from Fermilab and modicum of effort from the project. This is reflected in the Year 3 SOWs.
@@ -102,38 +100,38 @@ April 2014 Council Action Items
 
 %ENDCOLOR%
 
-131. Plan for next CIC - at a US CMS tier-3 site in the summer? Where /when might the next CIC be. - Rob G - %ORANGE% will be at Notre Dame. This workshop did not happen due to lack of effort and rediection to CMSConnect and Software Carpentry workshop in Jan. %ENDCOLOR% **Complete**
+131\. Plan for next CIC - at a US CMS tier-3 site in the summer? Where /when might the next CIC be. - Rob G - %ORANGE% will be at Notre Dame. This workshop did not happen due to lack of effort and rediection to CMSConnect and Software Carpentry workshop in Jan. %ENDCOLOR% **Complete**
 
-130. Request information from the project to plan a date by when the decision on the next renewal of theX509 Certificate CAs is planned. Who will lead this project? - Lothar **Complete** %ORANGE%
+130\. Request information from the project to plan a date by when the decision on the next renewal of theX509 Certificate CAs is planned. Who will lead this project? - Lothar **Complete** %ORANGE%
 
 -   Integrated into year 3-5 workplan with activities proceeding well.
 
 %ENDCOLOR%
 
-129. Council to help with focus meeting on request for access to Cloud interface provisioned resources - Ruth **Dropped**
+129\. Council to help with focus meeting on request for access to Cloud interface provisioned resources - Ruth **Dropped**
 
-128. Will organize venue for report from AtlasConnect to give OSG information on what they have learned, difficulties in using other XD resources - Michael, Rob G, **Complete**
+128\. Will organize venue for report from AtlasConnect to give OSG information on what they have learned, difficulties in using other XD resources - Michael, Rob G, **Complete**
 
 -   Planned for Oct Council meeting.
 -   Rob G will organize broader discussion across US ATLAS, US CMS (UCSD), Technology Area and SDSC resources.
 -   Activity progressing driven by US LHC and with OSG engagement.
 -   Reported at Oct Council meeting
 
-127. Expect user focus meeting with 2 communities with different pilot implementations. - Lothar **Dropped**
+127\. Expect user focus meeting with 2 communities with different pilot implementations. - Lothar **Dropped**
 
-126. Clarify the operations model between GlideinWMS and the OSG. - Lothar **Complete** %ORANGE%
+126\. Clarify the operations model between GlideinWMS and the OSG. - Lothar **Complete** %ORANGE%
 
 -   Recorded in the Year 3 SOWs.
 
 %ENDCOLOR%
 
-125. Discuss with regional resource providers what they need for ammunition for discussion with the sponsors in incentivizing their contributions. Write down a paragraph of what investment buys one. - Ruth **Complete** %ORANGE%
+125\. Discuss with regional resource providers what they need for ammunition for discussion with the sponsors in incentivizing their contributions. Write down a paragraph of what investment buys one. - Ruth **Complete** %ORANGE%
 
 -   Initial issue raised by David Swanson has gone away. Rob G asked about the issue for new sites/campuses. Possibility of "named campus liaisons/connections" passed to Rob.
 
 %ENDCOLOR%
 
-124.Would like any plot of opportunistic also be accompanied by the list of sites who are contributing. Council to have this information. And have a picture of where the cycles are coming from. - Chander **Complete** %ORANGE%
+124\. Would like any plot of opportunistic also be accompanied by the list of sites who are contributing. Council to have this information. And have a picture of where the cycles are coming from. - Chander **Complete** %ORANGE%
 
 -   Part of XD report.
 
@@ -141,77 +139,77 @@ April 2014 Council Action Items
 
 -   Reported at Oct Council meeting. Will make a regular feature.
 
-122. Have a blueprint and/or a focus meeting on data delivery in conjunction with jobs - Lothar **Complete**
+122\. Have a blueprint and/or a focus meeting on data delivery in conjunction with jobs - Lothar **Complete**
 
 -   Trash/Trash/Blueprint process re-energized by Miron. Plan report at March Council meeting
 
-121. Feedback on AHM 2014: need more time for discussion; more carefully schedule the detailed security and technical presentations; decide on focus topics for the meeting fairly early on and ensure the program committee is paying attention. Request reports from the focus groups at the next AHM. - Lothar - input to AHM 2014 **complete**
+121\. Feedback on AHM 2014: need more time for discussion; more carefully schedule the detailed security and technical presentations; decide on focus topics for the meeting fairly early on and ensure the program committee is paying attention. Request reports from the focus groups at the next AHM. - Lothar - input to AHM 2014 **complete**
 
-120. Record "type" of each Council member on the web site - Ruth - Done on Twiki **Complete**
+120\. Record "type" of each Council member on the web site - Ruth - Done on Twiki **Complete**
 
-119. Recommend project have some focus on "brain research applications". - Lothar **Complete**
+119\. Recommend project have some focus on "brain research applications". - Lothar **Complete**
 
 -   Usage by Pittsburgh Brain Trauma research is first such activity recorded.
 
 January 2014 Council Action Items
 ---------------------------------
 
-118. List Campus users each quarter - Ruth, Rob G - part of weekly reports from osg accounting **Complete**
+118\. List Campus users each quarter - Ruth, Rob G - part of weekly reports from osg accounting **Complete**
 
-117. List new sites and new VOs each quarter - Ruth - will receive this from Operations **Complete**
+117\. List new sites and new VOs each quarter - Ruth - will receive this from Operations **Complete**
 
-116. reach out to Investigators that use the OSG through each of the institutions and see if they are prepared to help mentor. Provide them with a list of applications already running on OSG - Council members
+116\. reach out to Investigators that use the OSG through each of the institutions and see if they are prepared to help mentor. Provide them with a list of applications already running on OSG - Council members
 
-115. Understand who is contributing cycles and why. This can lead to how to get more access and where the funding came from. Can look for others that fit that profile. Are there other profiles that we have not been chasing to get more people on board - Ruth, Chander - being handled by new Production Analyst **Complete**
+115\. Understand who is contributing cycles and why. This can lead to how to get more access and where the funding came from. Can look for others that fit that profile. Are there other profiles that we have not been chasing to get more people on board - Ruth, Chander - being handled by new Production Analyst **Complete**
 
-114. Quantify and report on opportunistic usage by site and owner for the next Council meeting. - part of the osg accounting reports **Complete**
+114\. Quantify and report on opportunistic usage by site and owner for the next Council meeting. - part of the osg accounting reports **Complete**
 
 October 2013 Council Action Items
 ---------------------------------
 
-113. Request from BNL for OSG to help VOs make allocation requests to XSEDE. Council Chair to discuss with ET. **Complete**
+113\. Request from BNL for OSG to help VOs make allocation requests to XSEDE. Council Chair to discuss with ET. **Complete**
 
 -   Request withdrawn
 
-112. Expect interim report from Trash/Trash/Blueprint and planning process for REsource Provisioning at Jan Council meeting, Jerome and Von will be part of the team, as contributors from the Consortium, in particular the cloud provisioning aspect. - Report from ED accepted **Complete**
+112\. Expect interim report from Trash/Trash/Blueprint and planning process for REsource Provisioning at Jan Council meeting, Jerome and Von will be part of the team, as contributors from the Consortium, in particular the cloud provisioning aspect. - Report from ED accepted **Complete**
 
-111. Council Chair to organize revision of the Sustainability of OSG document to reflect feedback, input, concerns. Perhaps rename to " Extending the Business Model". Talk about "Condo and Hotel models"? **Transitioned to new Executive Director**
+111\. Council Chair to organize revision of the Sustainability of OSG document to reflect feedback, input, concerns. Perhaps rename to " Extending the Business Model". Talk about "Condo and Hotel models"? **Transitioned to new Executive Director**
 
-110. Follow up to include offer of XSIM/Von help support in process for new VOs and RPs. Council Chair to work on this with ET **COMPLETE**
+110\. Follow up to include offer of XSIM/Von help support in process for new VOs and RPs. Council Chair to work on this with ET **COMPLETE**
 
 -    [Draft plan](https://docs.google.com/document/d/16a0CYKbwtNf5XPTO7jBQt3fdN39ihlJxSAVFAWZZ-bI/edit?pli=1)
 -    Test driving with VO outside of OSG. Available for comment in OSG in a month or two for public consumption. Mine has seen the plan but no deep discussion to date. Draft 2 pager will get to her.
 
-109. Council to discuss "expectations of entry" as resource constraints continue to increase. **COMPLETE**
+109\. Council to discuss "expectations of entry" as resource constraints continue to increase. **COMPLETE**
 
 -   [OSG\_VO\_Registration\_Workflow.docx](%ATTACHURL%/OSG_VO_Registration_Workflow.docx)
 -   Change agreed to move forward to Implementation.
 
-108. Follow up with potential Industry Partners action items. This is a Council action item and not something the Project can take on. See Council Chairs presentation at the Council meeting. In particular for NVIDIA will help to have a stakeholder engaged (ICeCube? enmr?) Ruth will work with Jerome on attendance at the DOE SBIR meeting. She will also follow up with DOE Program managers. - no opportunities to date **Complete**
+108\. Follow up with potential Industry Partners action items. This is a Council action item and not something the Project can take on. See Council Chairs presentation at the Council meeting. In particular for NVIDIA will help to have a stakeholder engaged (ICeCube? enmr?) Ruth will work with Jerome on attendance at the DOE SBIR meeting. She will also follow up with DOE Program managers. - no opportunities to date **Complete**
 
-107. ESNET Action items, Greg to write letter of proposed collaboration items to the ET. Council Chair requests project leadership - User Support, Campus - meet with the Science Trash/Engagement Team and report back at January Council meeting **Complete**
+107\. ESNET Action items, Greg to write letter of proposed collaboration items to the ET. Council Chair requests project leadership - User Support, Campus - meet with the Science Trash/Engagement Team and report back at January Council meeting **Complete**
 
-106. Chander, Brian, Rob Q, Bill B and Jarek N, will discuss impact, needs, initial resource allocation for the Blast application through the Galaxy portal and give an interim report back at the Jan Council meeting. - successful Blast runs from IU being used as a template for ND and this can be closed **Complete**
+106\. Chander, Brian, Rob Q, Bill B and Jarek N, will discuss impact, needs, initial resource allocation for the Blast application through the Galaxy portal and give an interim report back at the Jan Council meeting. - successful Blast runs from IU being used as a template for ND and this can be closed **Complete**
 
 June 2013 Council Action Items
 ------------------------------
 
-105. Request to Executive Director to identify contact lead for coordinating work to enable jobs that use the Galaxy portal to run effectively on OSG. GLOW, CSIU and ND have users and the former two have done some technical work. %ORANGE%Chander(User Support) and Brian Bockelman ( Technology Area) are identified. %ENDCOLOR%**COMPLETE**
+105\. Request to Executive Director to identify contact lead for coordinating work to enable jobs that use the Galaxy portal to run effectively on OSG. GLOW, CSIU and ND have users and the former two have done some technical work. %ORANGE%Chander(User Support) and Brian Bockelman ( Technology Area) are identified. %ENDCOLOR%**COMPLETE**
 
-104. ESNET round table items to be revisited at the next Council meeting. %ORANGE% ED/Council Chair/ET/ESNET Council member phone meeting held in Sept. Report at the Oct Council meeting, New action items identified above .%ENDCOLOR% **COMPLETE**
+104\. ESNET round table items to be revisited at the next Council meeting. %ORANGE% ED/Council Chair/ET/ESNET Council member phone meeting held in Sept. Report at the Oct Council meeting, New action items identified above .%ENDCOLOR% **COMPLETE**
 
 March 2013 Council Face to Face Action Items
 --------------------------------------------
 
 Updates as a result of meeting between Council Chair, Executive Director, Project Manager on 4/16/2013
 
-103. Organize a framework to generate/accept collaboration, solicitations and proposals. Rob G found success on this topic with a series of meetings and workshops in the past.%ORANGE% Ruth.%ENDCOLOR% Further discussion discussed how this is already happening, especially in response to solicitations that get posted and the information circulated. Unless a volunteer takes this on Ruth do not have bandwidth to do more than is happening today. No volunteer to date so item **CLOSED**
+103\. Organize a framework to generate/accept collaboration, solicitations and proposals. Rob G found success on this topic with a series of meetings and workshops in the past.%ORANGE% Ruth.%ENDCOLOR% Further discussion discussed how this is already happening, especially in response to solicitations that get posted and the information circulated. Unless a volunteer takes this on Ruth do not have bandwidth to do more than is happening today. No volunteer to date so item **CLOSED**
 
-102. Organized quarterly instead of monthly meetings. Ruth.%ORANGE% First quarterly meeting is scheduled for June. Will have quarterly meetings for a year and then revisit. Revisited at 2014 AHM and decided to keep to quarterly schedule %ENDCOLOR% **Complete**
+102\. Organized quarterly instead of monthly meetings. Ruth.%ORANGE% First quarterly meeting is scheduled for June. Will have quarterly meetings for a year and then revisit. Revisited at 2014 AHM and decided to keep to quarterly schedule %ENDCOLOR% **Complete**
 
-101. "In response to the Council Sub-commttee report and recommendations on OSG's Relationship with Industry" the Executive Director will prepare a one page write-up with a proposed process, timeline and plan to develop the policies for OSG to provision commercial cloud resources for the benefit of the Consortium. ED update at the June Council meeting said there is no timeline for the 1 page. %ORANGE% ED reported at Oct Council meeting. Jerome, Von volunteered to contribute to follow up activities .%ENDCOLOR% **COMPLETE**
+101\. "In response to the Council Sub-commttee report and recommendations on OSG's Relationship with Industry" the Executive Director will prepare a one page write-up with a proposed process, timeline and plan to develop the policies for OSG to provision commercial cloud resources for the benefit of the Consortium. ED update at the June Council meeting said there is no timeline for the 1 page. %ORANGE% ED reported at Oct Council meeting. Jerome, Von volunteered to contribute to follow up activities .%ENDCOLOR% **COMPLETE**
 
-100. Subcommittee to report on subclassifications of organizations to the consortium (such as to distinguish in OIM PKI-only VOs from VOs that consume other services). %ORANGE% Ruth, Rob Quick. %ENDCOLOR% \_Will be added to OIM on June 25th, we are currently doing the leg work to populate existing VO data- RQ.
+100\. Subcommittee to report on subclassifications of organizations to the consortium (such as to distinguish in OIM PKI-only VOs from VOs that consume other services). %ORANGE% Ruth, Rob Quick. %ENDCOLOR% \_Will be added to OIM on June 25th, we are currently doing the leg work to populate existing VO data- RQ.
 
 -   Talk to Rob Gardner about Campus Grid classifications - which ones use OSG services, OSG Connect etc
 -   Jerome asks for the topic to be revisited for the fall face to face
@@ -496,28 +494,28 @@ December 2011 Council Teleconference Action Items
 
 11. Investigate future funding (Paul) **COMPLETE**
 
-10. AHM: Get a report next week; send to council (David Swanson) **COMPLETE**
+10\. AHM: Get a report next week; send to council (David Swanson) **COMPLETE**
 
-9. Sign off on revised charter. (council) **COMPLETE**
+9\. Sign off on revised charter. (council) **COMPLETE**
 
-8. Look at and provide changes to Accomplishments document by Jan. 10 teleconference (council) **COMPLETE**
+8\. Look at and provide changes to Accomplishments document by Jan. 10 teleconference (council) **COMPLETE**
 
 November 2011 Council Teleconference Action Items
 -------------------------------------------------
 
-7. Follow up on iSGTW name change, first with Council, then with iSGTW board (co-chairs and council) **COMPLETE**
+7\. Follow up on iSGTW name change, first with Council, then with iSGTW board (co-chairs and council) **COMPLETE**
 
-6. Investigate future funding for iSGTW past the current Mar 2012 drop off date and the risk of a shortfall in future OSG Project funding for even the current 1/2 FTE. (Paul Avery) Proposal submitted **COMPLETE**
+6\. Investigate future funding for iSGTW past the current Mar 2012 drop off date and the risk of a shortfall in future OSG Project funding for even the current 1/2 FTE. (Paul Avery) Proposal submitted **COMPLETE**
 
-5. Jen make OSG status more obvious in news box. **COMPLETE**
+5\. Jen make OSG status more obvious in news box. **COMPLETE**
 
-4. Try to bring in new users (council).
+4\. Try to bring in new users (council).
 
-3. Council agrees charter needs some editing. Perhaps the term Sustaining Charter describes it best and will be used **COMPLETE**.
+3\. Council agrees charter needs some editing. Perhaps the term Sustaining Charter describes it best and will be used **COMPLETE**.
 
-2. Follow up about panels for AHM (council) **COMPLETE**
+2\. Follow up about panels for AHM (council) **COMPLETE**
 
-1. Respond to Emails about International Outreach visitors program (council) **COMPLETE**
+1\. Respond to Emails about International Outreach visitors program (council) **COMPLETE**
 
 September 2011 Council Teleconference Action Items
 --------------------------------------------------
@@ -797,19 +795,13 @@ Discussions held with XROADs and XSEDE teams. Separate letters of committment su
 May 2011 Face-to-Face Council Action Items
 ------------------------------------------
 
-### 1. ET will come up with the impact/plan to inform funding agencies how it is - next JOG is October.
-
-### 2. Ruth will work w/ Rob and ET to have a Strategic Plan discussions, input (council, stakeholders, users, staff), draft and review, by June 30.
-
-### 3. Post All Hands March 19-23, 2012, on OSG home; announcements elsewhere.
-
-### 4. For next council meeting, ET will cull the documents to say what council (including council chair) does now and present that. ET will circulate it one week before Aug meeting.
-
-### 5. Michael Ernst talk with Bill Johnston and Steve Cotter and report to council co-chairs. Co-chairs will ask Kathy Yelick for a replacement for Bill.
-
-### 6. Use of ATLAS opportunistic resources. This is a process other VOs could benefit from. It can be used as a template.
-
-### 7. Kent and Rick will communicate the change of chair to Paul, and Rick to whole council.
+1. ET will come up with the impact/plan to inform funding agencies how it is - next JOG is October.
+2. Ruth will work w/ Rob and ET to have a Strategic Plan discussions, input (council, stakeholders, users, staff), draft and review, by June 30.
+3. Post All Hands March 19-23, 2012, on OSG home; announcements elsewhere.
+4. For next council meeting, ET will cull the documents to say what council (including council chair) does now and present that. ET will circulate it one week before Aug meeting.
+5. Michael Ernst talk with Bill Johnston and Steve Cotter and report to council co-chairs. Co-chairs will ask Kathy Yelick for a replacement for Bill.
+6. Use of ATLAS opportunistic resources. This is a process other VOs could benefit from. It can be used as a template.
+7. Kent and Rick will communicate the change of chair to Paul, and Rick to whole council.
 
 -- Main.RuthPordes 9/11/2012
 
