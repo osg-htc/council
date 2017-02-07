@@ -46,8 +46,8 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 -   Duration: 3 hours with 10 minute breaks in between each hour
 
 #### Helpful Teleconference Documents:
-
-\* AgendaTemplate \* ChecklistforTeleconference
+-   AgendaTemplate
+-   ChecklistforTeleconference
 
 #### Action Items
 
@@ -76,11 +76,28 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 -   April 10-11th, 2014 [All Hands Meeting face-to-face](April-2014)
 -   January 29th, 2014 [Quarterly Phone Meeting](January-29-2014)
 
-**Calendar year 2013** \* October 2nd- 3rd, 2013 [Semi-Annual Face-to-Face Meeting](October-2-2013) \* June 13th, 2013 [Agenda/Minutes](June-13-2013) \* March 14-15th, 2013 [Semi-Annual Face-to-Face Meeting](March-14-2013) \* February 12th, 2013 [Agenda/Minutes](February-12-2013) \* January 8th, 2013 [Agenda/Minutes](January-8-2013)
+**Calendar year 2013**
+-   October 2nd- 3rd, 2013 [Semi-Annual Face-to-Face Meeting](October-2-2013)
+-   June 13th, 2013 [Agenda/Minutes](June-13-2013)
+-   March 14-15th, 2013 [Semi-Annual Face-to-Face Meeting](March-14-2013)
+-   February 12th, 2013 [Agenda/Minutes](February-12-2013)
+-   January 8th, 2013 [Agenda/Minutes](January-8-2013)
 
 #### Meeting Agenda and Minutes - 2012
 
-**Calendar Year 2012** \* December 11th, 2012 [Agenda/Minutes](December-11-2012) \* November 13th, 2012 [Agenda/Minutes](November-13-2012) \* October 9th, 2012 [Agenda/Minutes](October-9-2012) \* September 11th, 2012 [Agenda/Minutes](September-11-2012) \* [August 22-23rd, 2012](Agenda2012Aug22-23) Semi-Annual Face-to-Face Meeting \* July 10th, 2012 [Agenda/Minutes](July-10-2012) \* June 12th, 2012 [Agenda/Minutes](June-12-2012) \* May 8th, 2012 [Agenda/Minutes](May-8-2012) \* April 10th, 2012 [Agenda/Minutes](April-10-2012) \* March 13th, 2012 (replace by Face-to-Face mtg in Lincoln: March 22 [Minutes](March-22-2012), March 23 [Minutes](March-23-2012) \* February 14th, 2012 [Agenda/Minutes](February-14-2012) \* January 10th, 2012 [Agenda/Minutes](January-10-2012)
+**Calendar Year 2012**
+-  December 11th, 2012 [Agenda/Minutes](December-11-2012)
+-  November 13th, 2012 [Agenda/Minutes](November-13-2012)
+-  October 9th, 2012 [Agenda/Minutes](October-9-2012)
+-  September 11th, 2012 [Agenda/Minutes](September-11-2012)
+-  [August 22-23rd, 2012](Agenda2012Aug22-23) Semi-Annual Face-to-Face Meeting
+-  July 10th, 2012 [Agenda/Minutes](July-10-2012)
+-  June 12th, 2012 [Agenda/Minutes](June-12-2012)
+-  May 8th, 2012 [Agenda/Minutes](May-8-2012)
+-  April 10th, 2012 [Agenda/Minutes](April-10-2012)
+-  March 13th, 2012 (replace by Face-to-Face mtg in Lincoln: March 22 [Minutes](March-22-2012), March 23 [Minutes](March-23-2012)
+-  February 14th, 2012 [Agenda/Minutes](February-14-2012)
+-  January 10th, 2012 [Agenda/Minutes](January-10-2012)
 
 #### Meeting Agenda and Minutes - Previous Years
 
@@ -158,8 +175,6 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 
 OSG Executive Director [Reports to the OSG Council](https://www.opensciencegrid.org/bin/view/Council/DirectorReports)
 
-[Link to ***Reports sent to the Joint Oversight Team*** ](Trash/Trash/MeasurementsAndMetrics.MonthlyMetrictoJot)
-
 ### OSG Council Subcommittees
 
 From time to time the Council establishes ad-hoc subcommittees to work with the Council Chairs and the OSG Executive Board to address strategic planning needs. Activities of these subcommittees are captured here.
@@ -174,7 +189,3 @@ From time to time the Council establishes ad-hoc subcommittees to work with the 
 
 -   Re-Organization of OSG Council Subcommittee: [Webpage](SC-ROOC)
 -   At-Large VO Representation Subcommittee: [Webpage](SC-ALVOR)
-
-
-**Major updates**:
--- Main.Ruth Pordes - 3/4/13
