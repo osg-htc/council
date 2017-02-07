@@ -12,6 +12,7 @@ pages:
 - Membership: 'Members.md'
 - Voting Procedures: 'OpenScienceGridConsortiumVotingProcedures.md'
 - Management Plan: 'OpenScienceGridManagementPlan.md'
+- Member Expectations: 'MemberExpectations.md'
 - Action Items: 'CouncilActionItems.md'
 
 markdown_extensions:

@@ -267,7 +267,7 @@ November 2012 Council Teleconference Action Items
 
 88\. Follow up on user support lead for SURAgrid for Guy Almes and Steve Johnson. %ORANGE%Action item for Chander%ENDCOLOR% [ Email exchange](%ATTACHURL%/SuraGrid_Action_Item.pdf). Result is that for the moment SURAgrid sites are unable to accept the trust and security models presented by the use of glideinWMS. **COMPLETE**
 
-87\. Send email to Council requesting acceptance of [ Charter for OSG Sustainability After Five Years subcommittee](https://twiki.grid.iu.edu/bin/view/Council/SC-SUST#Subcommittee_to_Discussion_long). An email vote was conducted. The charter was passed with 11 Yes (of which 2 had comments which were followed up on) and there were null "no"-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum%ORANGE%Action item for Kimberly%ENDCOLOR% **COMPLETE**
+87\. Send email to Council requesting acceptance of Charter for OSG Sustainability After Five Years subcommittee. An email vote was conducted. The charter was passed with 11 Yes (of which 2 had comments which were followed up on) and there were null "no"-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum%ORANGE%Action item for Kimberly%ENDCOLOR% **COMPLETE**
 
 86\. Report from attendees on CIC meeting at next Council Meeting.Action item for Council. Report from Rob Gardner at Dec Council meeting **COMPLETE**
 
@@ -276,7 +276,7 @@ November 2012 Council Teleconference Action Items
 October 2012 Council Teleconference Action Items
 ------------------------------------------------
 
-84\. Council members to supply suggestions regarding the Proposed Charter for Subcommittee On OSG and Industry by October 19th: <https://www.opensciencegrid.org/bin/view/Council/SC-IND>. Council Chair to send out a poll for the Council to vote on whether to accept the revised Proposed Charter for Second Subcommittee by October 24th. Action item for Ruth. An email vote was conducted. The [charge for this sub-committee](https://twiki.grid.iu.edu/bin/view/Council/SC-IND) was passed with 8 Yes (of which 2 had comments which the sub-committee will follow up on) and 8 no-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum. **COMPLETE**
+84\. Council members to supply suggestions regarding the Proposed Charter for Subcommittee On OSG and Industry by October 19th: <https://www.opensciencegrid.org/bin/view/Council/SC-IND>. Council Chair to send out a poll for the Council to vote on whether to accept the revised Proposed Charter for Second Subcommittee by October 24th. Action item for Ruth. An email vote was conducted. The charge for this sub-committee was passed with 8 Yes (of which 2 had comments which the sub-committee will follow up on) and 8 no-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum. **COMPLETE**
 
 83\. Executive Director to report on OSG opportunistic use at November 13th Council meeting. %ORANGE%Action item for Lothar%ENDCOLOR% SBgrid was not getting as much work done as expected and a suspicion was that GLOW didn't provide as many resources as expected. Chander monitored SBgrid front end on a daily basis for 4 weeks. Jobs were queuing up, peaks approaching 2K cores, no long tails on batch jobs waiting for work- From OSG point of view, no identifiable problem with SBgrid. Suggest investigating if this could be a local problem. **COMPLETE**
 
@@ -477,7 +477,7 @@ February 2012 Council Teleconference Action Items
 January 2012 Council Teleconference Action Items
 ------------------------------------------------
 
-17\. Check [Membership Listing](https://twiki.grid.iu.edu/bin/view/Council/New) (council) **COMPLETE**
+17\. Check [Membership Listing](Members) (council) **COMPLETE**
 
 16\. Rick will make a proposal to request approval for a time schedule variance from the ED selection process detailed in the Management plan. (co-chairs) **COMPLETE**
 
@@ -705,9 +705,9 @@ Phone or face-to-face meeting held with all members. Request from Gaudenz Danuse
 -   **Date Originated:** August 10th, 2009
 -   **Date Completed:** Open
 -   **Initial Recommendation:** Careful prioritization is needed to assure effort on OSG future is supported and coupled with this action. Recommendations to follow from council discussions and vote to follow and address this action item.
--   **Results of Action:** Recommendations from Council are "officially" captured in the meeting [minutes](https://twiki.grid.iu.edu/bin/view/Council/Agenda2009Aug11). Recommendations were circulated to the OSG Executive Board in an email on August 31st, 2009. The Technology Group was established. An architecture document was written. The group now has items in the FY11 WBS that is currently being constructed.
+-   **Results of Action:** Recommendations from Council are "officially" captured in the meeting minutes. Recommendations were circulated to the OSG Executive Board in an email on August 31st, 2009. The Technology Group was established. An architecture document was written. The group now has items in the FY11 WBS that is currently being constructed.
 
-<https://twiki.grid.iu.edu/bin/view/Trash/Trash/Trash/Trash/Blueprint/WebHome#Technology_Group> <http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=966>
+<http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=966>
 
 ### 11. **Evaluate risks associated with the authentication and authorization systems:**
 
@@ -717,7 +717,7 @@ Phone or face-to-face meeting held with all members. Request from Gaudenz Danuse
 -   **Date Originated:** August 10th, 2009
 -   **Date Completed:** Open
 -   **Initial Recommendation:** Report back findings from interacting with other communities to council at next Face-to-Face Meeting.
--   **Results of Action:** Workshop [Report](https://twiki.grid.iu.edu/bin/view/Security/OsgEsnetWorkshopReport) sent to Council
+-   **Results of Action:** Workshop Report sent to the Council
 
 ### 12. **Inform and iterate with the OSG VO Liaisons regarding the collection of science domain metrics. Work with VOs to accurately define their science domain areas for the purpose of these metrics:**
 
@@ -727,7 +727,7 @@ Phone or face-to-face meeting held with all members. Request from Gaudenz Danuse
 -   **Date Originated:** August 10th, 2009
 -   **Date Completed:** Open
 -   **Initial Recommendation:** Working with VOs, inform and update as needed their science domain. Report back to the OSG Council by the time of our next Face-to-Face meeting the status and any new issues discoverd in working with the VOs.
--   **Results of Action:** [Report](https://twiki.grid.iu.edu/bin/view/Trash/Trash/Trash/Trash/MeasurementsAndMetrics/MetricScienceUsage) to the Council
+-   **Results of Action:** Report to the Council
 
 March 2010 Face-to-Face Council Action Items
 --------------------------------------------
@@ -751,7 +751,7 @@ March 2010 Face-to-Face Council Action Items
 
 -   **Owners:** Ruth Pordes, John McGee & Piotr Sliz
 -   **Date Completed:** July 2010
--   **Result:** presented to June Council meeting. Comments from Council included. Final document at: <https://twiki.grid.iu.edu/bin/view/Council/MemberExpectations>
+-   **Result:** presented to June Council meeting. Comments from Council included. [Final expectations document](MemberExpectations)
 
 ### 4. Find out the end data for SciDAC II
 
