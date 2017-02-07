@@ -8,6 +8,8 @@ extra_css:
 
 pages:
 - Home: 'index.md'
+- Minutes:
+  - '11 June 2013': 'minutes/June-11-2013.md'
 
 markdown_extensions:
   - admonition
