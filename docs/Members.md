@@ -16,7 +16,7 @@ The Council is made of those Consortium members making significant contributions
 | DOSAR                                             | Horst Severini                                 | Education                                             |
 | Fermi National Accelerator Laboratory             | Panagiotis Spentzouris, Alternate: Ruth Pordes | Campus users and resource provider                    |
 | University of Chicago / Globus                    | Rob Gardner                                    | Campus resource provider, users and software provider |
-| Indiana University                                | Rob Quick                                      | Campus users and resource provider                    |
+| Indiana University                                | Craig Steward, Alternate: Rob Quick            | Campus users and resource provider                    |
 | SBGRID                                            | Piotr Sliz                                     | User Community                                        |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                  | User Community                                        |
 | Stanford Linear Accelerator Center                | Stefan Hoeche                                  | Campus users, resource provider and theory users      |
