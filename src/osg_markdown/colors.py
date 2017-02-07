@@ -19,6 +19,8 @@ class ColorPostprocessor(Postprocessor):
         text = text.replace("%UCL_PROMPT_ROOT%", "[root@client ~]$")
         text = text.replace("%RED%", '<span style="color:red">')
         text = text.replace("%GREEN%", '<span style="color:green">')
+        text = text.replace("%BLUE%", '<span style="color:blue">')
+        text = text.replace("%ORANGE%", '<span style="color:orange">')
         text = text.replace("%ENDCOLOR%", '</span>')
         return self.RE.sub(self.unescape, text)
 

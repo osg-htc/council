@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - By-Laws: 'OpenScienceGridBylaws.md'
+- Action Items: 'CouncilActionItems.md'
 - Membership: 'Members.md'
 
 markdown_extensions:

@@ -24,7 +24,7 @@ Past Council Co-Chairs:
 
 ### OSG Council Members
 
--   [Member List](New)
+-   [Member List](Members)
 
 Send email to osg-council **@** opensciencegrid.org
 
@@ -51,7 +51,7 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 
 #### Action Items
 
--   [Council Action Items Listing/Details](Council Action Items)
+-   [Council Action Items Listing/Details](CouncilActionItems)
 
 #### Meeting Agenda and Minutes- Current Year
 
