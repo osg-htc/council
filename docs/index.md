@@ -77,6 +77,7 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 -   January 29th, 2014 [Quarterly Phone Meeting](January-29-2014)
 
 **Calendar year 2013**
+
 -   October 2nd- 3rd, 2013 [Semi-Annual Face-to-Face Meeting](October-2-2013)
 -   June 13th, 2013 [Agenda/Minutes](June-13-2013)
 -   March 14-15th, 2013 [Semi-Annual Face-to-Face Meeting](March-14-2013)
@@ -86,6 +87,7 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 #### Meeting Agenda and Minutes - 2012
 
 **Calendar Year 2012**
+
 -  December 11th, 2012 [Agenda/Minutes](December-11-2012)
 -  November 13th, 2012 [Agenda/Minutes](November-13-2012)
 -  October 9th, 2012 [Agenda/Minutes](October-9-2012)
