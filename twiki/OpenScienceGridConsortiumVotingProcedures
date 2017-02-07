@@ -7,7 +7,7 @@ This document describes the rules by which the council votes on decisions where 
 
 ---+++ Introduction
 
-Decisions of the OSG Council are made by consensus at any officially convened council meeting whenever possible.  Council meetings are officially convened by announcing them via the osg-council list server; topics requiring voting are indicated in the agenda. The OSG Council is composed of representatives of organizations as listed at https://twiki.grid.iu.edu/bin/view/Council/New on the page titled [[https://twiki.grid.iu.edu/bin/view/Council/New][OSG Council Members]]. In this document, the term “council member” refers to representatives of organizations with full voting privilege on the OSG Council.
+Decisions of the OSG Council are made by consensus at any officially convened council meeting whenever possible.  Council meetings are officially convened by announcing them via the osg-council list server; topics requiring voting are indicated in the agenda. The OSG Council is composed of representatives of organizations as listed at https://twiki.grid.iu.edu/bin/view/Council/New on the page titled [[https://twiki.grid.iu.edu/bin/view/Council/New][OSG Council Members]]. In this document, the term 'council member' refers to representatives of organizations with full voting privilege on the OSG Council.
 
 If any member of the council challenges a consensus decision within two whole business days (A business day is defined as any days from Monday to Friday, 8 AM Eastern to 5 PM Pacific at the exclusion of US Government Federal Holidays defined by the United States of America, Office of Personnel Management: http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/#url=2013) of the posting of the official minutes of the meeting to the council email list then a formal vote will be taken on the decision.
 
@@ -21,7 +21,7 @@ The vote can consist of a show of hands or roll call, or by other means acceptab
 
 ---+++ Non-meeting voting process
 
-The OSG consortium protects voter’s right for privacy. 
+The OSG consortium protects voter's right for privacy. 
    * A formal vote of the council is conducted as an anonymous vote election initiated by Email to the osg-council mailing list. The election will be conducted following one of the technical procedures listed below as the discretion of the election coordinator.
    * For each election the chair of the council will appoint one member of the council considered to be reasonably impartial with respect the choices to tabulate the vote count and announce the result.  This person is the election administrator. The chair may choose to appoint two election administrators to jointly oversee the election if appropriate.
    * Notice of an election is announced by the chair at least 7 calendar days before the start of the voting period.  This notice will describe the topic of the election and identify the election administrator(s).  In the case of an election caused by challenge to a consensus decision the posting of the meeting minutes starts the 7 day notice period, and the election administrator(s) are announced by the chair at least 24 hours prior to the start of the election period.
@@ -121,11 +121,3 @@ V0.3 Dec. 29, 2005, fkw, Modified Jermome's & Doug's version
 V0.2, Dec. 22, 2005, JL, Revised version, references, quorum, abstention, tied ballots, anonymous polling.
 
 V0.1, Dec. 21, 2005, Dlo, First draft for iteration by subcommittee.
-
-
-
-
-
-
-
--- Main.KimberlyMyles - 30 Jan 2013

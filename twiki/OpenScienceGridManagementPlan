@@ -5,15 +5,15 @@
 
 The Open Science Grid (OSG) is a Consortium of institutions and organizations with the goal to design, deploy and operate a shared distributed infrastructure and services in support of US science. 
 
-_“The Open Science Grid (OSG) advances science through open distributed computing. The OSG is a multi-disciplinary partnership to federate local, regional, community and national cyberinfrastructures to meet the needs of research and academic communities at all scales.”_
+_"The Open Science Grid (OSG) advances science through open distributed computing. The OSG is a multi-disciplinary partnership to federate local, regional, community and national cyberinfrastructures to meet the needs of research and academic communities at all scales."_
 
 An important aspect of OSG is the close collaboration across the scientific user organizations, the resource administrators and the technology providers in all aspects of the program of work.  The OSG governing structure consists of two parts: An element which oversees the Open Science Grid as a whole and a set of projects (including satellite projects) with technical leaders managing well defined deliverables towards common goals. The organization of the OSG consists of the fol-lowing:
 
-   * Consortium – all participants.
-   * Council – governs the Consortium ensuring effective benefit to the scientific mission of the stakeholders.
-   * Scientific Advisory Group – an invited, appointed group representing a diverse scientific community that provides advice to the Council and Executive Team.
-   * Executive Team – manages the OSG project and program of work, including the OSG infrastructure, services and software, and oversees the financial arrangements.
-   * Executive Board – provides coordination across the areas of work. 
+   * Consortium - all participants.
+   * Council - governs the Consortium ensuring effective benefit to the scientific mission of the stakeholders.
+   * Scientific Advisory Group - an invited, appointed group representing a diverse scientific community that provides advice to the Council and Executive Team.
+   * Executive Team - manages the OSG project and program of work, including the OSG infrastructure, services and software, and oversees the financial arrangements.
+   * Executive Board - provides coordination across the areas of work. 
 
 This management plan for OSG describes the role and composition of the organizational bodies and the way they interact with the projects. Our goal is to have an organization able to make decisions quickly, clearly and with a common understanding of expectations. We aim to be flexible and to make timely reactions to changes in, or new, user requirements, opportunities and available technologies. 
 
@@ -103,7 +103,7 @@ The Security Officer coordinates, monitors and supports the security of the OSG 
 
 ---++++ User Support 
 
-The User Support Lead facilitates and supports engaging new scientific communities to use the OSG and assists existing user communities in meeting their needs in developing and running applications on the OSG. Particular responsibilities include: identifying target groups and organizing collaborative work; liaising between the OSG applications, extension development projects, and the user communities; coordinating the support for integration and/or interoperation of new users and new approaches with the existing teams and activities. The User Support group runs task forces or “campaigns” targeted to increase the effectiveness of and benefit from OSG for a particular community. The User Support Coordinator is a member of the Executive Board.
+The User Support Lead facilitates and supports engaging new scientific communities to use the OSG and assists existing user communities in meeting their needs in developing and running applications on the OSG. Particular responsibilities include: identifying target groups and organizing collaborative work; liaising between the OSG applications, extension development projects, and the user communities; coordinating the support for integration and/or interoperation of new users and new approaches with the existing teams and activities. The User Support group runs task forces or 'campaigns' targeted to increase the effectiveness of and benefit from OSG for a particular community. The User Support Coordinator is a member of the Executive Board.
 
 ---++++ Technology 
 
