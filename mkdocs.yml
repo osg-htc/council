@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - By-Laws: 'OpenScienceGridBylaws.md'
+- Membership: 'Members.md'
 - Minutes:
   - '11 June 2013': 'minutes/June-11-2013.md'
 
