@@ -14,7 +14,7 @@ The Council is made of those Consortium members making significant contributions
 | Brookhaven National Laboratory                    | Eric Lancon                                    | Campus users and resource provider                    |
 | Condor Project                                    | Miron Livny                                    | Software Provider                                     |
 | DOSAR                                             | Horst Severini                                 | Education                                             |
-| Fermi National Accelerator Laboratory             | Panagiotis Spentzouris, Alternate: Ruth Pordes | Campus users and resource provider                    |
+| Fermi National Accelerator Laboratory             | Panagiotis Spentzouris, Alternate: Burt Holzman | Campus users and resource provider                    |
 | University of Chicago / Globus                    | Rob Gardner                                    | Campus resource provider, users and software provider |
 | Indiana University                                | Craig Steward, Alternate: Rob Quick            | Campus users and resource provider                    |
 | SBGRID                                            | Piotr Sliz                                     | User Community                                        |
@@ -23,6 +23,8 @@ The Council is made of those Consortium members making significant contributions
 | University of California San Diego                | Michael Norman, Alternate: Frank Wuerthwein    | Campus users and resource provider                    |
 | U of Pittsburgh Brain Trauma Research Center      | Don Krieger                                    | Research User                                         |
 | US CMS                                            | Ken Bloom, Alternate: Greg Snow                | User Community                                        |
+| US ATLAS                                          | Kaushik De                                     | User Community
+|
 
 **Former OSG Council Members**
 
