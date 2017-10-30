@@ -24,7 +24,8 @@ The Council is made of those Consortium members making significant contributions
 | U of Pittsburgh Brain Trauma Research Center      | Don Krieger                                    | Research User                                         |
 | US CMS                                            | Ken Bloom, Alternate: Greg Snow                | User Community                                        |
 | US ATLAS                                          | Kaushik De                                     | User Community
-
+| LIGO                                              | Peter Couvares                                 | User Community                               
+|
 **Former OSG Council Members**
 
 | Member name/dates                                      | Affiliation                                           |
