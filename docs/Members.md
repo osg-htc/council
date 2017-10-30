@@ -26,6 +26,7 @@ The Council is made of those Consortium members making significant contributions
 | US ATLAS                                          | Kaushik De                                     | User Community
 | LIGO                                              | Peter Couvares                                 | User Community                               
 |
+
 **Former OSG Council Members**
 
 | Member name/dates                                      | Affiliation                                           |
