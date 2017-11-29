@@ -182,7 +182,7 @@ October 2013 Council Action Items
 
 109\. Council to discuss "expectations of entry" as resource constraints continue to increase. **COMPLETE**
 
--   [OSG\_VO\_Registration\_Workflow.docx](%ATTACHURL%/OSG_VO_Registration_Workflow.docx)
+-   (Removed) OSG\_VO\_Registration\_Workflow.docx
 -   Change agreed to move forward to Implementation.
 
 108\. Follow up with potential Industry Partners action items. This is a Council action item and not something the Project can take on. See Council Chairs presentation at the Council meeting. In particular for NVIDIA will help to have a stakeholder engaged (ICeCube? enmr?) Ruth will work with Jerome on attendance at the DOE SBIR meeting. She will also follow up with DOE Program managers. - no opportunities to date **Complete**
@@ -265,7 +265,7 @@ December 2012 Council Teleconference Action Items
 November 2012 Council Teleconference Action Items
 -------------------------------------------------
 
-88\. Follow up on user support lead for SURAgrid for Guy Almes and Steve Johnson. %ORANGE%Action item for Chander%ENDCOLOR% [ Email exchange](%ATTACHURL%/SuraGrid_Action_Item.pdf). Result is that for the moment SURAgrid sites are unable to accept the trust and security models presented by the use of glideinWMS. **COMPLETE**
+88\. Follow up on user support lead for SURAgrid for Guy Almes and Steve Johnson. %ORANGE%Action item for Chander%ENDCOLOR% Email exchange (Removed) SuraGrid_Action_Item.pdf. Result is that for the moment SURAgrid sites are unable to accept the trust and security models presented by the use of glideinWMS. **COMPLETE**
 
 87\. Send email to Council requesting acceptance of Charter for OSG Sustainability After Five Years subcommittee. An email vote was conducted. The charter was passed with 11 Yes (of which 2 had comments which were followed up on) and there were null "no"-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum%ORANGE%Action item for Kimberly%ENDCOLOR% **COMPLETE**
 
@@ -468,7 +468,7 @@ March 22, 2012: Council AHM Action Items
 February 2012 Council Teleconference Action Items
 -------------------------------------------------
 
-20\. Rick will send an [official announcement](official announcement) (email) describing the election process. **COMPLETE**
+20\. Rick will send an official announcement (email) describing the election process. **COMPLETE**
 
 19\. Add concerns raised about OSG management structure, effectiveness of entities within this structure- put as agenda item for next meeting to discuss nature of those concerns in more detail, decide how council will move forward to address these. Could involve changes to bylaws. **COMPLETE**
 
@@ -743,7 +743,7 @@ March 2010 Face-to-Face Council Action Items
 #### **COMPLETED - MIGRATED INTO THE MANAGEMENT PLAN AI**
 
 -   **Owners:** Shaowen Wang & Doug Olson
--   Action Item 2 from March 2010, [suggesting](%ATTACHURL%/suspension-100816.docx) how the bylaws and voting rules documents could be updated to reflect the inactive status/suspension procedures previously discussed.
+-   Action Item 2 from March 2010, suggesting (Removed) suspension-100816.docx how the bylaws and voting rules documents could be updated to reflect the inactive status/suspension procedures previously discussed.
 
 ### 3. Develop a document covering "expectations" for coming into the OSG. Collective VO representatives reported that there were lots of questions regarding how to interact with the funding agencies as a member of the OSG. One example VO was noted as SBGrid in the discussion.
 
@@ -790,7 +790,7 @@ Discussions held with XROADs and XSEDE teams. Separate letters of committment su
 <!-- -->
 
 -   Venue: Fermilab or Hotel near Chicago?
--   [Doodle Poll for Determining the Face-to-Face Council Meeting Date](http://www.doodle.com/zykgavkaz4dtx7vn)
+-   (Removed) Doodle Poll for Determining the Face-to-Face Council Meeting Date http://www.doodle.com/zykgavkaz4dtx7vn
 
 May 2011 Face-to-Face Council Action Items
 ------------------------------------------
