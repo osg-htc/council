@@ -1,8 +1,8 @@
 site_name: OSG Council Working Homepage
-site_url: https://opensciencegrid.github.io/council/
+site_url: https://opensciencegrid.org/council/
 repo_url: https://github.com/opensciencegrid/council/
 theme: 
-  name: readthedocs
+  name: material
 
 pages:
 - Home: 'index.md'
