@@ -3,6 +3,7 @@ site_url: https://opensciencegrid.org/council/
 repo_url: https://github.com/opensciencegrid/council/
 theme: 
   name: material
+  custom_dir: theme-customizations
 
 pages:
 - Home: 'index.md'
