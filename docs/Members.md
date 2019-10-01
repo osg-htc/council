@@ -21,7 +21,7 @@ The Council is made of those Consortium members making significant contributions
 | Stanford Linear Accelerator Center                | Stefan Hoeche                                     | Campus users, resource provider, and theory users      |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
 | U of Pittsburgh Brain Trauma Research Center      | Don Krieger                                       | Research user                                          |
-| US CMS                                            | Oliver Gutsche                                    | User community                                         |
+| US CMS                                            | Oliver Gutsche, Alternate: Margaret Votava        | User community                                         |
 | US ATLAS                                          | Kaushik De                                        | User community                                         |
 | IceCube                                           | Kael Hanson                                       | User community                                         |
 | LIGO                                              | Peter Couvares                                    | User community                                         |
