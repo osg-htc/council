@@ -46,5 +46,5 @@ The Council is made of those Consortium members making significant contributions
 | Patrick Brady until 2012                               | Laser Interferometer Gravitational Observatory - LIGO |
 | Jim Shank until 2014                                   | US ATLAS                                              |
 | Brad Abbott, Rick Snider until April 2014              | Tevatron Experiments                                  |
-| University of Notre Dame Center for Research Computing | TBD                                                   |
-| ESNET                                                  | Greg Bell                                             |
+| Jarek Nabrzyski                                        |University of Notre Dame Center for Research Computing |
+| Greg Bell                                              | ESNET                                                 |
