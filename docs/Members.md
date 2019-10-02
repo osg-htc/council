@@ -9,6 +9,7 @@ The Council is made of those Consortium members making significant contributions
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | University of Nebraska - Holland Computing Center | David Swanson                                     | OSG Council Chair, campus users, and resource provider |
+| University of Nebraska - Holland Computing Center | Ken Bloom                                         | campus users, and resource provider |
 | University of Florida                             | Paul Avery                                        | Campus resource provider                               |
 | Brookhaven National Laboratory                    | Eric Lancon                                       | Campus users and resource provider                     |
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
