@@ -12,12 +12,13 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 
 ### OSG Council Contact Information
 
-OSG Council Chair
+Interim OSG Council Chair
 
--   [David Swanson](mailto:dswanson@cse.unl.edu), University of Nebraska
+-   [Ken Bloom][mailto:kenbloom@unl.edu], University of Nebraska&ndash;Lincoln
 
-Past Council Co-Chairs:
+Past Council Chairs and Co-Chairs:
 
+-   David Swanson, University of Nebraska&ndash;Lincoln
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
 -   Rick Snider, Fermilab
