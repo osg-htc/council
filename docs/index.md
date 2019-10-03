@@ -14,7 +14,7 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 
 Interim OSG Council Chair
 
--   [Ken Bloom][mailto:kenbloom@unl.edu], University of Nebraska&ndash;Lincoln
+-   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska&ndash;Lincoln
 
 Past Council Chairs and Co-Chairs:
 
