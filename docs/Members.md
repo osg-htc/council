@@ -14,8 +14,8 @@ The Council is made of those Consortium members making significant contributions
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
 | DOSAR                                             | Horst Severini                                    | Education                                              |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman | Campus users and resource provider                     |
-| University of Chicago / Globus                    | Rob Gardner                                       | Campus resource provider, users, and software provider |
-| Indiana University                                | Craig Stewart, Alternate: Rob Quick               | Campus users and resource provider                     |
+| Enrico Fermi Institute and Kavli Institute, University of Chicago                    | Rob Gardner                                       | Interim OSG Council Deputy Chair, campus resource provider, users |
+| Indiana University                                | Rick McMullen               | Campus users and resource provider                     |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                     | User community                                         |
 | Stanford Linear Accelerator Center                | Stefan Hoeche                                     | Campus users, resource provider, and theory users      |
@@ -32,6 +32,7 @@ The Council is made of those Consortium members making significant contributions
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Craig Stewart until October 2019                       | Indiana University                                    |
 | David Swanson until August 2019                        | University of Nebraska&ndash;Lincoln and Holland Computing Center |
 | Panagiotis Spentzouris until October 2018              | Fermi National Accelerator Laboratory                 |
 | Micheal Ernst until 2016                               | Brookhaven National Lab                               |
