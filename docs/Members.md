@@ -9,7 +9,6 @@ The Council is made of those Consortium members making significant contributions
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | University of Nebraska - Holland Computing Center | Ken Bloom                                         | Interim OSG Council Chair, campus users, and resource provider |
-| University of Florida                             | Paul Avery                                        | Campus resource provider                               |
 | Brookhaven National Laboratory                    | Eric Lancon                                       | Campus users and resource provider                     |
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
 | DOSAR                                             | Horst Severini                                    | Education                                              |
@@ -36,6 +35,7 @@ The Council is made of those Consortium members making significant contributions
 | Craig Stewart until October 2019                       | Indiana University                                    |
 | David Swanson until August 2019                        | University of Nebraska&ndash;Lincoln and Holland Computing Center |
 | Panagiotis Spentzouris until October 2018              | Fermi National Accelerator Laboratory                 |
+| Paul Avery until 2016                                  | University of Florida                                 |
 | Micheal Ernst until 2016                               | Brookhaven National Lab                               |
 | Mark Neubauer until March 2016                         | US ATLAS                                              |
 | Nick Hadley until August 2010                          | US CMS                                                |
