@@ -22,7 +22,7 @@ The Council is made of those Consortium members making significant contributions
 | U of Pittsburgh Brain Trauma Research Center      | Don Krieger                                       | Research user                                          |
 | US CMS                                            | Oliver Gutsche, Alternate: Margaret Votava        | User community                                         |
 | US ATLAS                                          | Kaushik De                                        | User community                                         |
-| IceCube                                           | Kael Hanson                                       | User community                                         |
+| IceCube                                           | Benedikt Riedel                                   | User community                                         |
 | LIGO                                              | Peter Couvares                                    | User community                                         |
 | Jefferson Lab                                     | Amber Boehnlein                                   | Campus users (GlueX) and resource provider             |
 | IRIS-HEP Project                                  | Peter Elmer                                       | User community                                         |
