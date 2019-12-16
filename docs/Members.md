@@ -27,6 +27,10 @@ The Council is made of those Consortium members making significant contributions
 | Jefferson Lab                                     | Amber Boehnlein                                   | Campus users (GlueX) and resource provider             |
 | IRIS-HEP Project                                  | Peter Elmer                                       | User community                                         |
 | ESnet                                             | Inder Monga                                       | Resource provider |
+| DUNE                                              | Michael Kirby, Alternate: Ken Herner              | User community |
+| Syracuse University                               | Eric Sedore              | User community and resource provider |
+
+
 
 **Former OSG Council Members**
 
