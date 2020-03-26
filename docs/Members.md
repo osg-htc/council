@@ -8,12 +8,12 @@ The Council is made of those Consortium members making significant contributions
 
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
-| University of Nebraska - Holland Computing Center | Ken Bloom                                         | Interim OSG Council Chair, campus users, and resource provider |
+| University of Nebraska - Holland Computing Center | Ken Bloom                                         | Past OSG Council Chair, campus users, and resource provider |
 | Brookhaven National Laboratory                    | Eric Lancon                                       | Campus users and resource provider                     |
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
 | DOSAR                                             | Horst Severini                                    | Education                                              |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman | Campus users and resource provider                     |
-| Enrico Fermi Institute and Kavli Institute, University of Chicago                    | Rob Gardner                                       | Interim OSG Council Deputy Chair, campus resource provider, users |
+| Enrico Fermi Institute and Kavli Institute, University of Chicago                    | Rob Gardner                                       |  OSG Council Chair, campus resource provider, users |
 | Indiana University                                | Rick McMullen               | Campus users and resource provider                     |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                     | User community                                         |
