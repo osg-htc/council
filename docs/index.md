@@ -15,7 +15,6 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 OSG Council Chair
 
 -   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
--   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
 
 Past Council Chairs and Co-Chairs:
 
