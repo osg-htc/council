@@ -2,7 +2,7 @@
 
 The OSG Council is the governing body of the Consortium responsible for the program of work and ensuring effective benefit to the scientific mission of the stakeholders. The Consortium includes all contributors to OSG; the Council is made of those Consortium members making significant contributions and commitments to the success of OSG. It makes and endorses all strategic decisions, which are typically discussed first in and recommended by the Executive Board.
 
-### OSG Governance Documents Relevant to the OSG Council
+## OSG Governance Documents Relevant to the OSG Council
 
 -   [OSG Document Database (DocDB)](http://osg-docdb.opensciencegrid.org/) Link.
 -   [Charter for the Open Science Grid](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=25) OSG DocDB Document 25.
@@ -10,7 +10,7 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 -   [Open Science Grid Management Plan](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=314) OSG DocDB Document 314.
 -   [Open Science Grid Consortium Voting Procedures](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=311) OSG DocDB Document 311.
 
-### OSG Council Contact Information
+## OSG Council Contact Information
 
 OSG Council Chair
 -   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
@@ -25,33 +25,25 @@ Past Council Chairs:
 -   Rick Snider, Fermilab
 
 
-### OSG Council Members
+## OSG Council Members
 
 -   [Member List](Members)
 
 Send email to osg-council **@** opensciencegrid.org
 
-### OSG Council Meetings
-
-From March 2013 Meetings of the OSG Council are organized Quarterly, with alternate meetings being in person (face-to-face) and by phone.
+## OSG Council Meetings
 
 As of March 2020, Meetings of the OSG Council will continue to be organized quarterly, but held via Zoom until normal face-to-face meetings are possible.
 
-#### Logistics:
+
+## Logistics:
 
 Zoom coordinates given on the Indico agenda and in email to the Council list.
 
-#### Helpful Teleconference Documents:
--   AgendaTemplate
--   ChecklistforTeleconference
 
-#### Action Items
 
--   [Council Action Items Listing/Details](CouncilActionItems)
+## Meeting Agenda and Minutes
 
-#### Meeting Agenda and Minutes- Current Year
-
-**Meeting agendas are now moved to Indico** <http://indico.fnal.gov>
 
 **Calendar year 2020**
 
