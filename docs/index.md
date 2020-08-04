@@ -13,16 +13,17 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 ### OSG Council Contact Information
 
 OSG Council Chair
-
 -   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
 
-Past Council Chairs and Co-Chairs:
-
+Past Council Chair (active)
 -   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
+
+Past Council Chairs:
 -   David Swanson, University of Nebraska, Lincoln
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
 -   Rick Snider, Fermilab
+
 
 ### OSG Council Members
 
@@ -32,20 +33,13 @@ Send email to osg-council **@** opensciencegrid.org
 
 ### OSG Council Meetings
 
-From March 2013 Meetings of the OSG Council are organized Quarterly, with alternate meetings being in person (face-to-face) and by phone
+From March 2013 Meetings of the OSG Council are organized Quarterly, with alternate meetings being in person (face-to-face) and by phone.
+
+As of March 2020, Meetings of the OSG Council will continue to be organized quarterly, but held via Zoom until normal face-to-face meetings are possible.
 
 #### Logistics:
 
--   Adobe Connect <http://osg.adobeconnect.com/council/>
-    -   Login: Add your name in the "Enter as a Guest" field and click "enter room".
-    -   Connect Audio: Click the microphone icon in the application bar; select the "Use my computer" option and click "Connect" to run audio through your desktop/laptop.
-    -   Share Webcam: Click the webcam icon in the application bar to set your preferences and share.
-    -   Chat: send a message to everyone by adding content to the chat box. To send a private message, from the options menu select an individual or group and click "Start Chat With".
-    -   For more information: [Adobe Connect Quick Start Guide](https://seminars.adobeconnect.com/_a227210/vqs-participants/)
--   Teleconference Phone Number: 1-866.740.1260 (ReadyTalk)
--   Access Code: 8403921
--   Frequency: Quarterly meetings
--   Duration: 3 hours with 10 minute breaks in between each hour
+Zoom coordinates given on the Indico agenda and in email to the Council list.
 
 #### Helpful Teleconference Documents:
 -   AgendaTemplate
@@ -58,6 +52,12 @@ From March 2013 Meetings of the OSG Council are organized Quarterly, with altern
 #### Meeting Agenda and Minutes- Current Year
 
 **Meeting agendas are now moved to Indico** <http://indico.fnal.gov>
+
+**Calendar year 2020**
+
+- Sep 3rd https://indico.fnal.gov/event/44838/
+- Mar 19th https://indico.fnal.gov/event/23625/
+
 
 **Calendar year 2016**
 
