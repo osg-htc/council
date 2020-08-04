@@ -13,7 +13,7 @@ The Council is made of those Consortium members making significant contributions
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
 | DOSAR                                             | Horst Severini                                    | Education                                              |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman | Campus users and resource provider                     |
-| Enrico Fermi Institute and Kavli Institute, University of Chicago                    | Rob Gardner                                       |  OSG Council Chair, campus resource provider, users |
+| Physical Sciences Division, University of Chicago                    | Rob Gardner                                       |  OSG Council Chair, campus resource provider, users |
 | Indiana University                                | Rick McMullen               | Campus users and resource provider                     |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                     | User community                                         |
