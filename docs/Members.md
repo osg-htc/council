@@ -8,27 +8,27 @@ The Council is made of those Consortium members making significant contributions
 
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
-| University of Nebraska - Holland Computing Center | Ken Bloom                                         | Past OSG Council Chair, campus users, and resource provider |
 | Brookhaven National Laboratory                    | Eric Lancon                                       | Campus users and resource provider                     |
 | HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
 | DOSAR                                             | Horst Severini                                    | Education                                              |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman | Campus users and resource provider                     |
-| Physical Sciences Division, University of Chicago                    | Rob Gardner                                       |  OSG Council Chair, campus resource provider, users |
-| Indiana University                                | Rick McMullen               | Campus users and resource provider                     |
+| Physical Sciences Division, University of Chicago | Rob Gardner                                       | OSG Council Chair, campus resource provider, users     | 
+| Indiana University                                | Rick McMullen                                     | Campus users and resource provider                     |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                     | User community                                         |
 | Stanford Linear Accelerator Center                | Stefan Hoeche                                     | Campus users, resource provider, and theory users      |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
-| U of Pittsburgh Brain Trauma Research Center      | Don Krieger                                       | Research user                                          |
-| US CMS                                            | Oliver Gutsche, Alternate: Margaret Votava        | User community                                         |
-| US ATLAS                                          | Kaushik De                                        | User community                                         |
-| IceCube                                           | Benedikt Riedel                                   | User community                                         |
+| University of Nebraska, Holland Computing Center  | Ken Bloom                                         | Past OSG Council Chair and resource provider           |
+| University of Pittsburgh Brain Trauma Research Center      | Don Krieger                                       | Research user                                          |
+| US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab        | User community                                         |
+| US ATLAS Collaboration                            | Kaushik De, UT Arlington                            | User community                                         |
+| IceCube Collaboration                             | Benedikt Riedel                                   | User community                                         |
 | LIGO                                              | Peter Couvares                                    | User community                                         |
 | Jefferson Lab                                     | Amber Boehnlein                                   | Campus users (GlueX) and resource provider             |
 | IRIS-HEP Project                                  | Peter Elmer                                       | User community                                         |
 | ESnet                                             | Inder Monga                                       | Resource provider |
 | DUNE                                              | Michael Kirby, Alternate: Ken Herner              | User community |
-| Syracuse University                               | Eric Sedore              | User community and resource provider |
+| Syracuse University                               | Eric Sedore                                       | User community and resource provider |
 
 
 
