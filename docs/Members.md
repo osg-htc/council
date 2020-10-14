@@ -8,27 +8,27 @@ The Council is made of those Consortium members making significant contributions
 
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
-| Brookhaven National Laboratory                    | Eric Lancon                                       | Campus users and resource provider                     |
+| Brookhaven National Laboratory                    | Eric Lancon, BNL                                  | Campus users and resource provider                     |
 | DOSAR Collaboration                               | Horst Severini, Oklahoma University               | Education                                              |
-| DUNE                                              | Michael Kirby, Alternate: Ken Herner              | User community |
+| DUNE                                              | Michael Kirby, Alternate: Ken Herner, Fermilab    | User community |
 | Energy Sciences Network (ESnet)                   | Inder Monga, LBNL                                 | Resource provider |
-| Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman | Campus users and resource provider                     |
-| HTCondor Project                                  | Miron Livny                                       | Software provider                                      |
-| IceCube Collaboration                             | Benedikt Riedel                                   | User community                                         |
-| Indiana University                                | Rick McMullen                                     | Campus users and resource provider                     |
-| IRIS-HEP Software Institute                       | Peter Elmer                                       | User community                                         |
-| Jefferson Lab                                     | Amber Boehnlein                                   | Campus users (GlueX) and resource provider             |
-| LIGO                                              | Peter Couvares                                    | User community                                         |
+| Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman, Fermilab | Campus users and resource provider                     |
+| HTCondor Project                                  | Miron Livny, University of Wisconsin, Madison     | Software provider                                      |
+| IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center                                   | User community                                         |
+| Indiana University                                | Rick McMullen, Indiana University                 | Campus users and resource provider                     |
+| IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
+| Jefferson Laboratory                              | Amber Boehnlein, Jefferson Laboratory             | Campus users (GlueX) and resource provider             |
+| LIGO                                              | Peter Couvares, Caltech                           | User community                                         |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
-| Solenoid Tracker at RHIC - STAR                   | Jerome Lauret                                     | User community                                         |
-| Stanford Linear Accelerator Center                | Stefan Hoeche                                     | Campus users, resource provider, and theory users      |
-| Syracuse University                               | Eric Sedore                                       | User community and resource provider |
+| Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
+| Stanford Linear Accelerator Center                | Stefan Hoeche, SLAC                               | Campus users, resource provider, and theory users      |
+| Syracuse University                               | Eric Sedore, Syracuse University                  | User community and resource provider |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
-| University of Chicago, Physical Sciences Division | Rob Gardner                                       | OSG Council Chair, campus resource provider, users     | 
-| University of Nebraska, Holland Computing Center  | Ken Bloom                                         | Past OSG Council Chair and resource provider           |
-| University of Pittsburgh Brain Trauma Research Center      | Don Krieger                                       | Research user                                          |
-| US ATLAS Collaboration                            | Kaushik De, UT Arlington                            | User community                                         |
-| US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab        | User community                                         |
+| University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | OSG Council Chair, campus resource provider, users     | 
+| University of Nebraska, Holland Computing Center  | Ken Bloom, University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
+| University of Pittsburgh Brain Trauma Research Center      | Don Krieger, University of Pittsburgh    | Research user                                          |
+| US ATLAS Collaboration                            | Kaushik De, UT Arlington                          | User community                                         |
+| US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab  | User community                                   |
 
 
 
