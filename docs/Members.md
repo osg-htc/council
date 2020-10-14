@@ -17,6 +17,7 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
 | Jefferson Laboratory                              | Amber Boehnlein, Jefferson Laboratory             | Campus users (GlueX) and resource provider             |
 | LIGO                                              | Peter Couvares, Caltech                           | User community                                         |
+| National Energy Research Scientific Computing Center | Debbie Bard, LBNL                              | Resource provider, user community                      |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
 | Stanford Linear Accelerator Center                | Stefan Hoeche, SLAC                               | Campus users, resource provider, and theory users      |
