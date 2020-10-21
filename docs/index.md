@@ -4,7 +4,7 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 
 ## OSG Governance Documents Relevant to the OSG Council
 
--   [OSG Bylaws (updated 2020)](/docs/documents/OSG-By-Laws-2020.pdf) [(Previous 2015 version:)](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=70)
+-   [OSG Bylaws (updated March 2020)](docs/documents/OSG-By-Laws-2020.pdf), [(Previous version, 2015)](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=70)
 -   [OSG Document Database (DocDB)](http://osg-docdb.opensciencegrid.org/) Link.
 -   [Charter for the Open Science Grid](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=25) OSG DocDB Document 25.
 -   [Open Science Grid Management Plan](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=314) OSG DocDB Document 314.
@@ -23,6 +23,7 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
 -   Rick Snider, Fermilab
+-	Bill Kramer, LBNL
 
 
 ## OSG Council Members
@@ -47,8 +48,8 @@ Zoom coordinates given on the Indico agenda and in email to the Council list.
 
 **Calendar year 2020**
 
-- Sep 3rd https://indico.fnal.gov/event/44838/
-- Mar 19th https://indico.fnal.gov/event/23625/
+- Sep 3rd <https://indico.fnal.gov/event/44838/>
+- Mar 19th <https://indico.fnal.gov/event/23625/>
 
 
 **Calendar year 2016**
