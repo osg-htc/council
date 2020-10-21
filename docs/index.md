@@ -4,9 +4,9 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 
 ## OSG Governance Documents Relevant to the OSG Council
 
+-   [OSG Bylaws (2020)](/documents/OSG-Bylaws-2020.pdf) [(2015)](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=70)
 -   [OSG Document Database (DocDB)](http://osg-docdb.opensciencegrid.org/) Link.
 -   [Charter for the Open Science Grid](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=25) OSG DocDB Document 25.
--   [OSG Bylaws](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=70) OSG DocDB Document 70.
 -   [Open Science Grid Management Plan](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=314) OSG DocDB Document 314.
 -   [Open Science Grid Consortium Voting Procedures](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=311) OSG DocDB Document 311.
 

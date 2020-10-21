@@ -1,6 +1,9 @@
 Open Science Grid By-laws
 =========================
 
+> **2015 version (now defunct)**
+
+
 ### Purpose
 
 The Open Science Grid Consortium is a consortium of scientific collaborations, scientific computing centers and existing and new grid research and deployment projects, involving both computational and application scientists, working together to provide and support the set of facilities, services and infrastructure needed to provide a persistent national grid infrastructure for large scale US science: the Open Science Grid.
