@@ -7,7 +7,7 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | Institution or VO                                 | Representative Name                               | Affiliation                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | Brookhaven National Laboratory                    | Eric Lancon, BNL                                  | Campus users and resource provider                     |
-| DOSAR Collaboration                               | Horst Severini, Oklahoma University               | Education                                              |
+| DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
 | DUNE                                              | Michael Kirby, Alternate: Ken Herner, Fermilab    | User community |
 | Energy Sciences Network (ESnet)                   | Inder Monga, LBNL                                 | Resource provider |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman, Fermilab | Campus users and resource provider                     |
