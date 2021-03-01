@@ -10,9 +10,9 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
 | DUNE                                              | Michael Kirby, Alternate: Ken Herner, Fermilab    | User community |
 | Energy Sciences Network (ESnet)                   | Inder Monga, LBNL                                 | Resource provider |
-| Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman, Fermilab | Campus users and resource provider                     |
+| Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman, Fermilab | Campus users and resource provider           |
 | HTCondor Project                                  | Miron Livny, University of Wisconsin, Madison     | Software provider                                      |
-| IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center                                   | User community                                         |
+| IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | Indiana University                                | Rick McMullen, Indiana University                 | Campus users and resource provider                     |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
 | Jefferson Laboratory                              | Amber Boehnlein, Jefferson Laboratory             | Campus users (GlueX) and resource provider             |
@@ -20,14 +20,14 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | National Energy Research Scientific Computing Center | Debbie Bard, LBNL                              | Resource provider, user community                      |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
-| Stanford Linear Accelerator Center                | Stefan Hoeche, SLAC                               | Campus users, resource provider, and theory users      |
+| Stanford Linear Accelerator Center                | Richard Dubois, SLAC                              | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | User community and resource provider |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | OSG Council Chair, campus resource provider, users     | 
 | University of Nebraska, Holland Computing Center  | Ken Bloom, University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
-| University of Pittsburgh Brain Trauma Research Center      | Don Krieger, University of Pittsburgh    | Research user                                          |
+| University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
 | US ATLAS Collaboration                            | Kaushik De, UT Arlington                          | User community                                         |
-| US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab  | User community                                   |
+| US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab  | User community                                     |
 
 
 
@@ -35,6 +35,7 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Stefan Hoeche until March 2021                         |                                                       |
 | Craig Stewart until October 2019                       | Indiana University                                    |
 | David Swanson until August 2019                        | University of Nebraska&ndash;Lincoln and Holland Computing Center |
 | Panagiotis Spentzouris until October 2018              | Fermi National Accelerator Laboratory                 |
@@ -52,5 +53,5 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | Patrick Brady until 2012                               | Laser Interferometer Gravitational Observatory - LIGO |
 | Jim Shank until 2014                                   | US ATLAS                                              |
 | Brad Abbott, Rick Snider until April 2014              | Tevatron Experiments                                  |
-| Jarek Nabrzyski                                        |University of Notre Dame Center for Research Computing |
+| Jarek Nabrzyski                                        | University of Notre Dame Center for Research Computing |
 | Greg Bell                                              | ESNET                                                 |
