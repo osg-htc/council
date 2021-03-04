@@ -7,7 +7,7 @@ This document describes the rules by which the council votes on decisions where 
 
 ### Introduction
 
-Decisions of the OSG Council are made by consensus at any officially convened council meeting whenever possible. Council meetings are officially convened by announcing them via the osg-council list server; topics requiring voting are indicated in the agenda. The OSG Council is composed of representatives of organizations as listed on [OSG Council Members](Members). In this document, the term 'council member' refers to representatives of organizations with full voting privilege on the OSG Council.
+Decisions of the OSG Council are made by consensus at any officially convened council meeting whenever possible. Council meetings are officially convened by announcing them via the osg-council list server; topics requiring voting are indicated in the agenda. The OSG Council is composed of representatives of organizations as listed on [OSG Council Members](Members.md). In this document, the term 'council member' refers to representatives of organizations with full voting privilege on the OSG Council.
 
 If any member of the council challenges a consensus decision within two whole business days (A business day is defined as any days from Monday to Friday, 8 AM Eastern to 5 PM Pacific at the exclusion of US Government Federal Holidays defined by the United States of America, Office of Personnel Management: <http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/#url=2013>) of the posting of the official minutes of the meeting to the council email list then a formal vote will be taken on the decision.
 

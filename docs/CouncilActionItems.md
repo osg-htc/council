@@ -475,7 +475,7 @@ February 2012 Council Teleconference Action Items
 January 2012 Council Teleconference Action Items
 ------------------------------------------------
 
-17\. Check [Membership Listing](Members) (council) **COMPLETE**
+17\. Check [Membership Listing](Members.md) (council) **COMPLETE**
 
 16\. Rick will make a proposal to request approval for a time schedule variance from the ED selection process detailed in the Management plan. (co-chairs) **COMPLETE**
 
@@ -749,7 +749,7 @@ March 2010 Face-to-Face Council Action Items
 
 -   **Owners:** Ruth Pordes, John McGee & Piotr Sliz
 -   **Date Completed:** July 2010
--   **Result:** presented to June Council meeting. Comments from Council included. [Final expectations document](MemberExpectations)
+-   **Result:** presented to June Council meeting. Comments from Council included. [Final expectations document](MemberExpectations.md)
 
 ### 4. Find out the end data for SciDAC II
 

@@ -29,7 +29,7 @@ The OSG staff are mentored both by their local organization and the OSG manageme
 
 ### OSG Council
 
-The OSG Council is the governing body of the Consortium responsible for the program of work and ensuring effective benefit to the scientific mission of the stakeholders. The Consortium includes all contributors to OSG and the Council is made of those Consortium members making significant contributions and commitments to the success of OSG. The Council endorses all strategic decisions, which are typically recommended by the Executive Team. The basic rules for operation of the OSG Council are described in the [OSG By-Laws](OpenScienceGridBylaws) and summarized here.
+The OSG Council is the governing body of the Consortium responsible for the program of work and ensuring effective benefit to the scientific mission of the stakeholders. The Consortium includes all contributors to OSG and the Council is made of those Consortium members making significant contributions and commitments to the success of OSG. The Council endorses all strategic decisions, which are typically recommended by the Executive Team. The basic rules for operation of the OSG Council are described in the [OSG By-Laws](OpenScienceGridBylaws.md) and summarized here.
 
 The OSG council appoints a Chair following the procedure outlined in the OSG bylaws. The **Council Chair** is an ex-officio member of Executive Board. The Council Chairperson may form a team to assist in the preparation of Council business. The composition of such an advisory group is at the discretion of the Council Chairperson. Council membership includes Institution Representatives selected by the institutions and all members of the Executive Board ex-officio (as non-voting members).
 
