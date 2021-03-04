@@ -35,7 +35,7 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
-| Stefan Hoeche until March 2021                         |                                                       |
+| Stefan Hoeche until March 2021                         | Stanford Linear Accelerator Center                    |
 | Craig Stewart until October 2019                       | Indiana University                                    |
 | David Swanson until August 2019                        | University of Nebraska&ndash;Lincoln and Holland Computing Center |
 | Panagiotis Spentzouris until October 2018              | Fermi National Accelerator Laboratory                 |
