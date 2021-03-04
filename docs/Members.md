@@ -20,7 +20,7 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | National Energy Research Scientific Computing Center | Debbie Bard, LBNL                              | Resource provider, user community                      |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
-| Stanford Linear Accelerator Center                | Stefan Hoeche, SLAC                               | Campus users, resource provider, and theory users      |
+| Stanford Linear Accelerator Center                | Richard Dubois, SLAC                               | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | User community and resource provider |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | OSG Council Chair, campus resource provider, users     | 
@@ -52,5 +52,5 @@ The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the s
 | Patrick Brady until 2012                               | Laser Interferometer Gravitational Observatory - LIGO |
 | Jim Shank until 2014                                   | US ATLAS                                              |
 | Brad Abbott, Rick Snider until April 2014              | Tevatron Experiments                                  |
-| Jarek Nabrzyski                                        |University of Notre Dame Center for Research Computing |
+| Jarek Nabrzyski                                        | University of Notre Dame Center for Research Computing |
 | Greg Bell                                              | ESNET                                                 |
