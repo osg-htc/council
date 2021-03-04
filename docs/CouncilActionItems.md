@@ -5,8 +5,6 @@ Action Items result from Council meetings. The person who has accepted to follow
 
 All Action items below 141 are complete or dropped.
 
-Open Items are noted with a %BLUE% Blue number %ENDCOLOR%
-
 March 2015 Council Action Items
 -------------------------------
 
@@ -23,9 +21,9 @@ March 2015 Council Action Items
 -   Present status/results of the work at each Quarterly Council meeting - David Swanson (Chair), Frank, Rob Gardner, Mark Neubauer
 -   Reported in June at <https://indico.fnal.gov/getFile.py/access?contribId=10&resId=0&materialId=slides&confId=10055>. Agreed this closes the item and no further reports are needed.
 
-%BLUE% 149. %ENDCOLOR% Present to Council 1 page document on "Enabling Campus Resource Sharing and use of remote OSG resources in 15 minutes - Rob Gardner, Frank
+ 149.  Present to Council 1 page document on "Enabling Campus Resource Sharing and use of remote OSG resources in 15 minutes - Rob Gardner, Frank
 
-%BLUE% 148. %ENDCOLOR% Report back to the Council when an understanding of the constraints of Glow submissions to OSG (10K jobs in parallel?) are understood - Bo
+ 148.  Report back to the Council when an understanding of the constraints of Glow submissions to OSG (10K jobs in parallel?) are understood - Bo
 
 147\. Present a report at each Council meeting of list of individuals using OSG outside of ATLAS/CMS. - Tanya Levshina **Complete**
 
@@ -87,26 +85,26 @@ April 2014 Council Action Items
 
 134\. What are concrete actions Consortium stakeholders would ask OSG to take on wrt clouds, cloud federations. - Ruth **Dropped in favor of the project defining directions**
 
-133\. Estimate the impact of supporting the Intensity Frontier experiments at a production level of service. - Chander, Ruth **Complete** %ORANGE%
+133\. Estimate the impact of supporting the Intensity Frontier experiments at a production level of service. - Chander, Ruth **Complete** 
 
 -   Identify the work needed to make IF a full partner in OSG
 -   IF accepted by DOE as a stakeholder for OSG with contributions from Fermilab and modicum of effort from the project. This is reflected in the Year 3 SOWs.
 
-%ENDCOLOR% 132. Phone meeting between ESNET council member, Technical Director, Perfsonar lead, Michael Ernst (ESNET liaison), and IU contact to discuss OSG involvement in ESNET governance/planning. - Amber (On behalf of the Council) **Complete** %ORANGE%
+ 132. Phone meeting between ESNET council member, Technical Director, Perfsonar lead, Michael Ernst (ESNET liaison), and IU contact to discuss OSG involvement in ESNET governance/planning. - Amber (On behalf of the Council) **Complete** 
 
 -    Phone meeting held. 3 options of engagement: Full partnership requires contributions of 1.5 FTE to the perfsonar partnership; specific projects can be joint; OSG can participate in regular requirements gathering meetings.
 -   Greg Bell to present these options to Council meeting in Oct
 -   Michael and Miron to bring these to the attention of the ET.
 
-%ENDCOLOR%
 
-131\. Plan for next CIC - at a US CMS tier-3 site in the summer? Where /when might the next CIC be. - Rob G - %ORANGE% will be at Notre Dame. This workshop did not happen due to lack of effort and rediection to CMSConnect and Software Carpentry workshop in Jan. %ENDCOLOR% **Complete**
 
-130\. Request information from the project to plan a date by when the decision on the next renewal of theX509 Certificate CAs is planned. Who will lead this project? - Lothar **Complete** %ORANGE%
+131\. Plan for next CIC - at a US CMS tier-3 site in the summer? Where /when might the next CIC be. - Rob G -  will be at Notre Dame. This workshop did not happen due to lack of effort and rediection to CMSConnect and Software Carpentry workshop in Jan.  **Complete**
+
+130\. Request information from the project to plan a date by when the decision on the next renewal of theX509 Certificate CAs is planned. Who will lead this project? - Lothar **Complete** 
 
 -   Integrated into year 3-5 workplan with activities proceeding well.
 
-%ENDCOLOR%
+
 
 129\. Council to help with focus meeting on request for access to Cloud interface provisioned resources - Ruth **Dropped**
 
@@ -119,23 +117,23 @@ April 2014 Council Action Items
 
 127\. Expect user focus meeting with 2 communities with different pilot implementations. - Lothar **Dropped**
 
-126\. Clarify the operations model between GlideinWMS and the OSG. - Lothar **Complete** %ORANGE%
+126\. Clarify the operations model between GlideinWMS and the OSG. - Lothar **Complete** 
 
 -   Recorded in the Year 3 SOWs.
 
-%ENDCOLOR%
 
-125\. Discuss with regional resource providers what they need for ammunition for discussion with the sponsors in incentivizing their contributions. Write down a paragraph of what investment buys one. - Ruth **Complete** %ORANGE%
+
+125\. Discuss with regional resource providers what they need for ammunition for discussion with the sponsors in incentivizing their contributions. Write down a paragraph of what investment buys one. - Ruth **Complete** 
 
 -   Initial issue raised by David Swanson has gone away. Rob G asked about the issue for new sites/campuses. Possibility of "named campus liaisons/connections" passed to Rob.
 
-%ENDCOLOR%
 
-124\. Would like any plot of opportunistic also be accompanied by the list of sites who are contributing. Council to have this information. And have a picture of where the cycles are coming from. - Chander **Complete** %ORANGE%
+
+124\. Would like any plot of opportunistic also be accompanied by the list of sites who are contributing. Council to have this information. And have a picture of where the cycles are coming from. - Chander **Complete** 
 
 -   Part of XD report.
 
-%ENDCOLOR% 123. Request report back from Miron as leader of the outreach on how we are being viewed and what is happening at the NSF- Miron **Complete**
+ 123. Request report back from Miron as leader of the outreach on how we are being viewed and what is happening at the NSF- Miron **Complete**
 
 -   Reported at Oct Council meeting. Will make a regular feature.
 
@@ -194,31 +192,31 @@ October 2013 Council Action Items
 June 2013 Council Action Items
 ------------------------------
 
-105\. Request to Executive Director to identify contact lead for coordinating work to enable jobs that use the Galaxy portal to run effectively on OSG. GLOW, CSIU and ND have users and the former two have done some technical work. %ORANGE%Chander(User Support) and Brian Bockelman ( Technology Area) are identified. %ENDCOLOR%**COMPLETE**
+105\. Request to Executive Director to identify contact lead for coordinating work to enable jobs that use the Galaxy portal to run effectively on OSG. GLOW, CSIU and ND have users and the former two have done some technical work. Chander(User Support) and Brian Bockelman ( Technology Area) are identified. **COMPLETE**
 
-104\. ESNET round table items to be revisited at the next Council meeting. %ORANGE% ED/Council Chair/ET/ESNET Council member phone meeting held in Sept. Report at the Oct Council meeting, New action items identified above .%ENDCOLOR% **COMPLETE**
+104\. ESNET round table items to be revisited at the next Council meeting.  ED/Council Chair/ET/ESNET Council member phone meeting held in Sept. Report at the Oct Council meeting, New action items identified above . **COMPLETE**
 
 March 2013 Council Face to Face Action Items
 --------------------------------------------
 
 Updates as a result of meeting between Council Chair, Executive Director, Project Manager on 4/16/2013
 
-103\. Organize a framework to generate/accept collaboration, solicitations and proposals. Rob G found success on this topic with a series of meetings and workshops in the past.%ORANGE% Ruth.%ENDCOLOR% Further discussion discussed how this is already happening, especially in response to solicitations that get posted and the information circulated. Unless a volunteer takes this on Ruth do not have bandwidth to do more than is happening today. No volunteer to date so item **CLOSED**
+103\. Organize a framework to generate/accept collaboration, solicitations and proposals. Rob G found success on this topic with a series of meetings and workshops in the past. Ruth. Further discussion discussed how this is already happening, especially in response to solicitations that get posted and the information circulated. Unless a volunteer takes this on Ruth do not have bandwidth to do more than is happening today. No volunteer to date so item **CLOSED**
 
-102\. Organized quarterly instead of monthly meetings. Ruth.%ORANGE% First quarterly meeting is scheduled for June. Will have quarterly meetings for a year and then revisit. Revisited at 2014 AHM and decided to keep to quarterly schedule %ENDCOLOR% **Complete**
+102\. Organized quarterly instead of monthly meetings. Ruth. First quarterly meeting is scheduled for June. Will have quarterly meetings for a year and then revisit. Revisited at 2014 AHM and decided to keep to quarterly schedule  **Complete**
 
-101\. "In response to the Council Sub-commttee report and recommendations on OSG's Relationship with Industry" the Executive Director will prepare a one page write-up with a proposed process, timeline and plan to develop the policies for OSG to provision commercial cloud resources for the benefit of the Consortium. ED update at the June Council meeting said there is no timeline for the 1 page. %ORANGE% ED reported at Oct Council meeting. Jerome, Von volunteered to contribute to follow up activities .%ENDCOLOR% **COMPLETE**
+101\. "In response to the Council Sub-commttee report and recommendations on OSG's Relationship with Industry" the Executive Director will prepare a one page write-up with a proposed process, timeline and plan to develop the policies for OSG to provision commercial cloud resources for the benefit of the Consortium. ED update at the June Council meeting said there is no timeline for the 1 page.  ED reported at Oct Council meeting. Jerome, Von volunteered to contribute to follow up activities . **COMPLETE**
 
-100\. Subcommittee to report on subclassifications of organizations to the consortium (such as to distinguish in OIM PKI-only VOs from VOs that consume other services). %ORANGE% Ruth, Rob Quick. %ENDCOLOR% \_Will be added to OIM on June 25th, we are currently doing the leg work to populate existing VO data- RQ.
+100\. Subcommittee to report on subclassifications of organizations to the consortium (such as to distinguish in OIM PKI-only VOs from VOs that consume other services).  Ruth, Rob Quick.  \_Will be added to OIM on June 25th, we are currently doing the leg work to populate existing VO data- RQ.
 
 -   Talk to Rob Gardner about Campus Grid classifications - which ones use OSG services, OSG Connect etc
 -   Jerome asks for the topic to be revisited for the fall face to face
 
-%ORANGE% Work done between the Gratia project and user support, reported at the Oct Council meeting.%ENDCOLOR% **COMPLETE**
+ Work done between the Gratia project and user support, reported at the Oct Council meeting. **COMPLETE**
 
-99\. A response is needed from the project concerning accounting based on this meeting and elsewhere. Determine whether accounting in reports meets everyone's needs. For example, VO acronyms are not useful to the uninitiated within the NSF, department directors, etc. Find effort for accounting. Currently there is virtually none. We have to show which funding office or director we service. -- %ORANGE% Lothar, Ruth 
+99\. A response is needed from the project concerning accounting based on this meeting and elsewhere. Determine whether accounting in reports meets everyone's needs. For example, VO acronyms are not useful to the uninitiated within the NSF, department directors, etc. Find effort for accounting. Currently there is virtually none. We have to show which funding office or director we service. --  Lothar, Ruth 
 
--   Propose regular contacts that spans the external development projects and operational groups in OSG: Gratia, UNL, Operations to develop list, prioritiy and plan and implement to the needs. Work done between the Gratia project and user support, reported at the Oct Council meeting.%ENDCOLOR%
+-   Propose regular contacts that spans the external development projects and operational groups in OSG: Gratia, UNL, Operations to develop list, prioritiy and plan and implement to the needs. Work done between the Gratia project and user support, reported at the Oct Council meeting.
 
 -   2 quarterly Gratia stakeholder meetings held to date. Helping with prioritizing, organizing more detailed requirements etc.
 -   6 month OSG effort working on improving maintainability of the code for the future as part of the Gratia project.
@@ -233,41 +231,41 @@ Updates as a result of meeting between Council Chair, Executive Director, Projec
 -   As we moved away from VOMS registration to submit nodes with a separate connection identity. Don't expose people to an AUP and they don't even see our request. Add it to the workflow when users see the system? Push notifications when get a job back.
 -   Can we make it One citation not two?
 
-97\. discuss (offline) whether OSG is a specifically USA institution, in contrast to defining OSG as an international entity. This question emerged regarding the goal of cultivating connections to Latin America and Asia. - %ORANGE% Council Chair and Executive Director. %ENDCOLOR%
+97\. discuss (offline) whether OSG is a specifically USA institution, in contrast to defining OSG as an international entity. This question emerged regarding the goal of cultivating connections to Latin America and Asia. -  Council Chair and Executive Director. 
 
 -   It has long been stated that **"OSG is a US National entity that partners and collaborates with many organizations, including International,** **COMPLETE**
 
 February 2013 Council Teleconference Action Items
 -------------------------------------------------
 
-96\.ND application for Council representation: Jarek is unable to attend the Council face-to-face meetings- Council to review ND application on Tuesday evening (March 12) during a 1 hour phone conference. -%ORANGE%ND accepted as a member of the OSG Council%ENDCOLOR% **COMPLETE**
+96\.ND application for Council representation: Jarek is unable to attend the Council face-to-face meetings- Council to review ND application on Tuesday evening (March 12) during a 1 hour phone conference. -ND accepted as a member of the OSG Council **COMPLETE**
 
 95\. OSG-XSEDE usage: Add to March face-to-face Council meeting agenda- discuss separating technical from policy - how to form policy questions, advocacy, look for more contributors etc. Solved technical by User Support by having separate queues with priorities for execution by the Glidein system **COMPLETE**
 
 January 2013 Council Teleconference Action Items
 ------------------------------------------------
 
-94\. Proposal to continue discussion regarding Globus online with individual members of Council and add as agenda item for Feb. or March. %ORANGE%Discussion held. no further interest expressed. %ENDCOLOR% **DROPPED**
+94\. Proposal to continue discussion regarding Globus online with individual members of Council and add as agenda item for Feb. or March. Discussion held. no further interest expressed.  **DROPPED**
 
-93\. Check "if a VO is using a file that is NOT a root file, will it work with AAA?" in response to a question from Gabriele. %ORANGE%Action item for Ken Bloom%ENDCOLOR% Answer is Yes. **Complete**
+93\. Check "if a VO is using a file that is NOT a root file, will it work with AAA?" in response to a question from Gabriele. Action item for Ken Bloom Answer is Yes. **Complete**
 
 December 2012 Council Teleconference Action Items
 -------------------------------------------------
 
-92\. Follow up with DZero contact Brad Abbott and talk to Piotr offline regarding EGI Community Forum workshop submissions. %ORANGE%Action item for Ruth%ENDCOLOR% WENMR and SBGrid submitted a joint paper to EGI. **COMPLETE**
+92\. Follow up with DZero contact Brad Abbott and talk to Piotr offline regarding EGI Community Forum workshop submissions. Action item for Ruth WENMR and SBGrid submitted a joint paper to EGI. **COMPLETE**
 
-91\. Provide a report of BOSCO downloads - this will be posted periodically under "Standing Items of the OSG Project". %ORANGE%BOSCO project in hiatus/closed per ED report at Oct Council meeting %ENDCOLOR% **CLOSED**
+91\. Provide a report of BOSCO downloads - this will be posted periodically under "Standing Items of the OSG Project". BOSCO project in hiatus/closed per ED report at Oct Council meeting  **CLOSED**
 
-90\. Discuss BES Community at Face to Face Council meeting and provide specific report from someone from community. %ORANGE%Action item for Michael Ernst, TBD%ENDCOLOR% In discussion it is determined that we should postpone this to await the outcomes of the current round of BES community discussions and plans in other forums. **COMPLETE**
+90\. Discuss BES Community at Face to Face Council meeting and provide specific report from someone from community. Action item for Michael Ernst, TBD In discussion it is determined that we should postpone this to await the outcomes of the current round of BES community discussions and plans in other forums. **COMPLETE**
 
-89\. Supply agenda for the March Council Face-to-Face meeting. %ORANGE%Action item for Council Chair%ENDCOLOR% <https://www.opensciencegrid.org/bin/view/Council/March-14-2013> **COMPLETE**
+89\. Supply agenda for the March Council Face-to-Face meeting. Action item for Council Chair <https://www.opensciencegrid.org/bin/view/Council/March-14-2013> **COMPLETE**
 
 November 2012 Council Teleconference Action Items
 -------------------------------------------------
 
-88\. Follow up on user support lead for SURAgrid for Guy Almes and Steve Johnson. %ORANGE%Action item for Chander%ENDCOLOR% Email exchange (Removed) SuraGrid_Action_Item.pdf. Result is that for the moment SURAgrid sites are unable to accept the trust and security models presented by the use of glideinWMS. **COMPLETE**
+88\. Follow up on user support lead for SURAgrid for Guy Almes and Steve Johnson. Action item for Chander Email exchange (Removed) SuraGrid_Action_Item.pdf. Result is that for the moment SURAgrid sites are unable to accept the trust and security models presented by the use of glideinWMS. **COMPLETE**
 
-87\. Send email to Council requesting acceptance of Charter for OSG Sustainability After Five Years subcommittee. An email vote was conducted. The charter was passed with 11 Yes (of which 2 had comments which were followed up on) and there were null "no"-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum%ORANGE%Action item for Kimberly%ENDCOLOR% **COMPLETE**
+87\. Send email to Council requesting acceptance of Charter for OSG Sustainability After Five Years subcommittee. An email vote was conducted. The charter was passed with 11 Yes (of which 2 had comments which were followed up on) and there were null "no"-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorumAction item for Kimberly **COMPLETE**
 
 86\. Report from attendees on CIC meeting at next Council Meeting.Action item for Council. Report from Rob Gardner at Dec Council meeting **COMPLETE**
 
@@ -278,22 +276,22 @@ October 2012 Council Teleconference Action Items
 
 84\. Council members to supply suggestions regarding the Proposed Charter for Subcommittee On OSG and Industry by October 19th: <https://www.opensciencegrid.org/bin/view/Council/SC-IND>. Council Chair to send out a poll for the Council to vote on whether to accept the revised Proposed Charter for Second Subcommittee by October 24th. Action item for Ruth. An email vote was conducted. The charge for this sub-committee was passed with 8 Yes (of which 2 had comments which the sub-committee will follow up on) and 8 no-votes; there are 2 unfilled positions. The OSG Charter says 1/5 of the membership of the Council constitutes a quorum. **COMPLETE**
 
-83\. Executive Director to report on OSG opportunistic use at November 13th Council meeting. %ORANGE%Action item for Lothar%ENDCOLOR% SBgrid was not getting as much work done as expected and a suspicion was that GLOW didn't provide as many resources as expected. Chander monitored SBgrid front end on a daily basis for 4 weeks. Jobs were queuing up, peaks approaching 2K cores, no long tails on batch jobs waiting for work- From OSG point of view, no identifiable problem with SBgrid. Suggest investigating if this could be a local problem. **COMPLETE**
+83\. Executive Director to report on OSG opportunistic use at November 13th Council meeting. Action item for Lothar SBgrid was not getting as much work done as expected and a suspicion was that GLOW didn't provide as many resources as expected. Chander monitored SBgrid front end on a daily basis for 4 weeks. Jobs were queuing up, peaks approaching 2K cores, no long tails on batch jobs waiting for work- From OSG point of view, no identifiable problem with SBgrid. Suggest investigating if this could be a local problem. **COMPLETE**
 
 September 2012 Council Teleconference Action Items
 --------------------------------------------------
 
-82\. Investigate the bottlenecks GlueX researchers experienced at level of 2,000. %ORANGE% Action item for Chander %ENDCOLOR% Feedback from Glue-X: production has paused temporarily as we test a new revision of the simulation software. I expect to get back into production before the end of the calendar year, at which point I will be able to give feedback." Glue-x Currently starting new production run **COMPLETE**
+82\. Investigate the bottlenecks GlueX researchers experienced at level of 2,000.  Action item for Chander  Feedback from Glue-X: production has paused temporarily as we test a new revision of the simulation software. I expect to get back into production before the end of the calendar year, at which point I will be able to give feedback." Glue-x Currently starting new production run **COMPLETE**
 
-81\. Motion to accept Subcommittee \#1's charge this month or next (Bill Barnet, Horst Severini, Bob Clare and Paul Avery seconded this motion %ORANGE% Action item for Council%ENDCOLOR% **COMPLETE**
+81\. Motion to accept Subcommittee \#1's charge this month or next (Bill Barnet, Horst Severini, Bob Clare and Paul Avery seconded this motion  Action item for Council **COMPLETE**
 
-80\. Post information regarding the stakeholder request system 1 week (Oct. 2) before the next teleconference. %ORANGE% Action item for Lothar%ENDCOLOR% *COMPLETE*
+80\. Post information regarding the stakeholder request system 1 week (Oct. 2) before the next teleconference.  Action item for Lothar *COMPLETE*
 
-79\. Satellite report rotation will be put on a separate Twiki page. %ORANGE% Action item for Ruth%ENDCOLOR% **COMPLETE**
+79\. Satellite report rotation will be put on a separate Twiki page.  Action item for Ruth **COMPLETE**
 
-78\. Motion to post PowerPoint presentation of Executive Director report 1 week before the teleconference. %ORANGE% Action item for Lothar%ENDCOLOR% **COMPLETE**
+78\. Motion to post PowerPoint presentation of Executive Director report 1 week before the teleconference.  Action item for Lothar **COMPLETE**
 
-77\. Review action items, list topics that need to be picked up again later, collect into a larger, actionable item instead of many smaller items. Suggest adding input dates for revisiting and summarizing action items. %ORANGE% Action item for Lothar to consolidate and summarize; Von to consolidate and summarize PKI action items%ENDCOLOR%
+77\. Review action items, list topics that need to be picked up again later, collect into a larger, actionable item instead of many smaller items. Suggest adding input dates for revisiting and summarizing action items.  Action item for Lothar to consolidate and summarize; Von to consolidate and summarize PKI action items
 
 -    Report posted to DocDB **COMPLETE**
 
@@ -308,19 +306,19 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 76\. Identify order of magnitude for total effort for specific response to compromise of DigiCert plan (Chander request). Action item for Von
 
-75\. Is this team aware of any other enterprise that has actually implemented contingency steps in worst case event - have Europeans done this? -Chander question &lt;No contingency plan at CERN -Bob Clare response %ORANGE%Action item for Von%ENDCOLOR%
+75\. Is this team aware of any other enterprise that has actually implemented contingency steps in worst case event - have Europeans done this? -Chander question &lt;No contingency plan at CERN -Bob Clare response Action item for Von
 
-74\. Recommendation for Council to accept Mine's analysis and planning, but would like to understand the impact/ preparations to guide the project. %ORANGE%Action item for Von%ENDCOLOR%
+74\. Recommendation for Council to accept Mine's analysis and planning, but would like to understand the impact/ preparations to guide the project. Action item for Von
 
-73\. Want better estimate regarding cost, ongoing maintenance contingency plans- Von request %ORANGE%Action item for Von%ENDCOLOR%
+73\. Want better estimate regarding cost, ongoing maintenance contingency plans- Von request Action item for Von
 
-72\. Mine to analyze what's most expensive after an incident vs. before and analyze this now as part of contingency planning/ recovery planning but put down effort on further risk assessment and have her concentrate more on training for transition etc.- Von suggestion %ORANGE%Action item for Von%ENDCOLOR%
+72\. Mine to analyze what's most expensive after an incident vs. before and analyze this now as part of contingency planning/ recovery planning but put down effort on further risk assessment and have her concentrate more on training for transition etc.- Von suggestion Action item for Von
 
-71\. Provide further assurance/ details for LHC community regarding CA contingency plans -Michael Ernst. %ORANGE%Action item for Ruth%ENDCOLOR%
+71\. Provide further assurance/ details for LHC community regarding CA contingency plans -Michael Ernst. Action item for Ruth
 
-70\. Find out how long does it take to get each user a new certificate for CERN CA? %ORANGE%Action item for Michael Ernst%ENDCOLOR%
+70\. Find out how long does it take to get each user a new certificate for CERN CA? Action item for Michael Ernst
 
-69\. Include in diagrams/ communication piece the plan for worst case scenario. %ORANGE%Action item for Von and Mine%ENDCOLOR%
+69\. Include in diagrams/ communication piece the plan for worst case scenario. Action item for Von and Mine
 
 -   MOTION to request members of management board/ executive team to have OSG Security team to present WLCG request in event of CA compromise or loss that non- International Grid Trust Federation (IGTF) CA would be accepted. (Ruth proposed)
 
@@ -330,27 +328,27 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 * 68-66 The Council Chair will post a rotation for Satellite reports before the October Council meeting* **COMPLETE**
 
-68\. Is the Council interested in having DASPOS within envelope of the consortium? (multi-disciplinary, international, covers VOs in OSG, NEES interested in, data & software preservation) %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR%
+68\. Is the Council interested in having DASPOS within envelope of the consortium? (multi-disciplinary, international, covers VOs in OSG, NEES interested in, data & software preservation) Action item for Ruth/Kimberly
 
-67\. DASPOS discussion result of presentation- Vicky asked for clarification regarding coordination. %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR%
+67\. DASPOS discussion result of presentation- Vicky asked for clarification regarding coordination. Action item for Ruth/Kimberly
 
-66\. To the extent common tools can be developed (DASPOS) is this something that OSG should be interested in? As stakeholders in OSG, is this something we should pursue? -Bob Clare %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR%
+66\. To the extent common tools can be developed (DASPOS) is this something that OSG should be interested in? As stakeholders in OSG, is this something we should pursue? -Bob Clare Action item for Ruth/Kimberly
 
-65\. Campus Bridging/Champions topic: What else should we do within OSG for those trying to do both use XSEDE and OSG? How do they want to work with XSEDE Campus organizations ? When send work to XSEDE and when opportunistic? %ORANGE%Superceded by CIC activity%ENDCOLOR% **DROPPED**
+65\. Campus Bridging/Champions topic: What else should we do within OSG for those trying to do both use XSEDE and OSG? How do they want to work with XSEDE Campus organizations ? When send work to XSEDE and when opportunistic? Superceded by CIC activity **DROPPED**
 
-64\. Send Ruth copy of proposal in document repository for LARK.%ORANGE%Action item for Brian Bockelman%ENDCOLOR% Document posted **COMPLETE**
+64\. Send Ruth copy of proposal in document repository for LARK.Action item for Brian Bockelman Document posted **COMPLETE**
 
-63\. Council would like to hear quarterly or half yearly (at face to face?) updates on LARK -Ruth, Greg, Michael Ernst, Tom Hacker. %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR% Satellite rotation posted **COMPLETE**
+63\. Council would like to hear quarterly or half yearly (at face to face?) updates on LARK -Ruth, Greg, Michael Ernst, Tom Hacker. Action item for Ruth/Kimberly Satellite rotation posted **COMPLETE**
 
-62\. Is the Council interested in receiving information about this satellite and on what kind of schedule, do they want to have further influence, input, involvement in workshops as OSG initiated initiative..? ---RESULT-Council considers this a type 3 satellite, would like a quick status report from time to time. %ORANGE%Action item for Ruth/Kimberly%ENDCOLOR%Satellite rotation posted **COMPLETE**
+62\. Is the Council interested in receiving information about this satellite and on what kind of schedule, do they want to have further influence, input, involvement in workshops as OSG initiated initiative..? ---RESULT-Council considers this a type 3 satellite, would like a quick status report from time to time. Action item for Ruth/KimberlySatellite rotation posted **COMPLETE**
 
 **Council Representation**
 
-61\. Misalignment/ gap between OSG mission & project goals %ORANGE%Mission re-presented to AHM. No further comment %ENDCOLOR% **CLOSED**
+61\. Misalignment/ gap between OSG mission & project goals Mission re-presented to AHM. No further comment  **CLOSED**
 
-60\. How do we construct a body (the council) that has constructive influence on the project? %ORANGE%Action item for Ruth%ENDCOLOR%
+60\. How do we construct a body (the council) that has constructive influence on the project? Action item for Ruth
 
-59\. Remove SAG (Science Advisory Group) - Yes, no objections. %ORANGE%Action item for Ruth%ENDCOLOR%
+59\. Remove SAG (Science Advisory Group) - Yes, no objections. Action item for Ruth
 
 -   MOTION: to take roles of science advisory group and add this responsibility to the OSG Council and thank Scientific Advisory Group for their past contribution.
     -   Passed. (Yes, objections)
@@ -359,40 +357,40 @@ The motions are being followed up and the OSG Council will receive a report unde
 
 **Council Meeting Organization**
 
-57\.echnology investigation has role to play in Council meetings. Good to include it as an agenda item-Michael Ernst %ORANGE%Proposal for Council face to face in summer to be blueprint oriented%ENDCOLOR% **DROPPED**
+57\.echnology investigation has role to play in Council meetings. Good to include it as an agenda item-Michael Ernst Proposal for Council face to face in summer to be blueprint oriented **DROPPED**
 
 * Will be included on regular rotation in Officer Reports in future Council meetings*
 
-56\. Trash/Trash/Integration into campuses is a key goal- piece of agenda should focus on one of the key initiatives the project has asserted is important- Chander %ORANGE%Action item for Ruth as Council chair%ENDCOLOR% Reported at Nov Council meeting **COMPLETE**
+56\. Trash/Trash/Integration into campuses is a key goal- piece of agenda should focus on one of the key initiatives the project has asserted is important- Chander Action item for Ruth as Council chair Reported at Nov Council meeting **COMPLETE**
 
-55\. Request to tweak agenda so it follows more of a board analogy-Von %ORANGE%Action item for Ruth as Council chair%ENDCOLOR% * Started with September meeting. Input/comments welcome* **COMPLETE**
+55\. Request to tweak agenda so it follows more of a board analogy-Von Action item for Ruth as Council chair * Started with September meeting. Input/comments welcome* **COMPLETE**
 
-54\. Council discuss where we have done well or not so well on software. %ORANGE%Action item for Ruth as Council chair%ENDCOLOR% * No action to date , reorganization of software area underway within the OSG Project* **DROPPED**
+54\. Council discuss where we have done well or not so well on software. Action item for Ruth as Council chair * No action to date , reorganization of software area underway within the OSG Project* **DROPPED**
 
-53\. Request to follow rules of order-Tom Hacker %ORANGE%Action item for Ruth as Council chair%ENDCOLOR% **COMPLETE**
+53\. Request to follow rules of order-Tom Hacker Action item for Ruth as Council chair **COMPLETE**
 
 * Adopted for this and subsequent meetings*
 
 **Action Items for Executive Director**
 
-52\. Stakeholder request capture %ORANGE%Action Item for Lothar%ENDCOLOR%
+52\. Stakeholder request capture Action Item for Lothar
 
-51\. Ask Executive team to get a statement regarding Globus Online -Steve Tuecke %ORANGE%Presentation made; discussion held, No interested in further statement%ENDCOLOR% Scheduled for January 2013. **CLOSED**
+51\. Ask Executive team to get a statement regarding Globus Online -Steve Tuecke Presentation made; discussion held, No interested in further statement Scheduled for January 2013. **CLOSED**
 
-50\. Work with NEEs (Letter of collaboration created)- and expand community of earthquake engineering researchers who can use OpenSees? and other computational simulation tools through NEEShub- Purpose to get signature from key person at NEES- through steering council of NEEs. Make OpenSEEs? an OSG application? Need Eva, Frank McKenna? for future -not having done in the past. %ORANGE%Action Item for Lothar%ENDCOLOR% Being handled by user support. **TRANSITIONED**
+50\. Work with NEEs (Letter of collaboration created)- and expand community of earthquake engineering researchers who can use OpenSees? and other computational simulation tools through NEEShub- Purpose to get signature from key person at NEES- through steering council of NEEs. Make OpenSEEs? an OSG application? Need Eva, Frank McKenna? for future -not having done in the past. Action Item for Lothar Being handled by user support. **TRANSITIONED**
 
 -   MOTION: Grandfather in or make a presentation and vote. OSG funded to do this-Miron
     -   NO OBJECTIONS to grandfathering in without presentation.
 
 49\. Provide quarterly technical briefing with Amber and Michael, as the OSG representatives, with the BES Facilities activities. Project Manager (Chander) to organize to make sure happens. Action Item for Lothar. Report at the December Council meeting. **TRANSITIONED**
 
-48\. TOPIC for continued discussion: Have a model for success- how to deploy Galaxy in a high throughput environment -are we archiving these examples? %ORANGE%Action Item for Lothar%ENDCOLOR% Being handled by the Campus Infrastructure Community activity. **TRANSITIONED**
+48\. TOPIC for continued discussion: Have a model for success- how to deploy Galaxy in a high throughput environment -are we archiving these examples? Action Item for Lothar Being handled by the Campus Infrastructure Community activity. **TRANSITIONED**
 
 -   MOTION to request Council to receive analysis for options/ path for impact for each option and potential for saving OSG money in the future. Request of Executive Director to provide the Council with analysis of options to move forward with need for current level of PKI certs within OSG and cost of pursing each path (cost and risk) within 2 months .Chander will inform Lothar of what impact is.
 
 **OSG Communications**
 
-47\. Engage a broader set of communications people- partners and members of OSG consortium- make sure this happens from OSG side of Communications and engage i.e. ESNET Communications %ORANGE%Action Item for Ruth%ENDCOLOR%
+47\. Engage a broader set of communications people- partners and members of OSG consortium- make sure this happens from OSG side of Communications and engage i.e. ESNET Communications Action Item for Ruth
 
 * OSG Communications have made these contacts and will be following up.* **COMPLETE**
 
@@ -477,7 +475,7 @@ February 2012 Council Teleconference Action Items
 January 2012 Council Teleconference Action Items
 ------------------------------------------------
 
-17\. Check [Membership Listing](Members) (council) **COMPLETE**
+17\. Check [Membership Listing](Members.md) (council) **COMPLETE**
 
 16\. Rick will make a proposal to request approval for a time schedule variance from the ED selection process detailed in the Management plan. (co-chairs) **COMPLETE**
 
@@ -751,7 +749,7 @@ March 2010 Face-to-Face Council Action Items
 
 -   **Owners:** Ruth Pordes, John McGee & Piotr Sliz
 -   **Date Completed:** July 2010
--   **Result:** presented to June Council meeting. Comments from Council included. [Final expectations document](MemberExpectations)
+-   **Result:** presented to June Council meeting. Comments from Council included. [Final expectations document](MemberExpectations.md)
 
 ### 4. Find out the end data for SciDAC II
 

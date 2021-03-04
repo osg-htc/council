@@ -28,7 +28,7 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 
 ## OSG Council Members
 
--   [Member List](Members)
+-   [Member List](Members.md)
 
 Send email to osg-council **@** opensciencegrid.org
 
