@@ -4,7 +4,7 @@ OSG Council Webpages
 
 This repository manages the webpages of the OSG Council.  A few notes about its contents:
 
--   An auto-deploy script is setup; when a commit is made to the master branch, Travis-CI
+-   An auto-deploy script is setup; when a commit is made to the master branch, a GitHub Action
     will automatically rebuild the static website and push the results to the `gh-pages`
     branch.
 -   [GitHub hosts the website itself](https://opensciencegrid.github.io/council).
