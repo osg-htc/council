@@ -6,7 +6,7 @@ Meetings of the OSG Council are quarterly.
 Zoom coordinates are sent via email.
 
 
-## Meeting Agenda and Minutes
+## Agendas
 
 **Calendar year 2021**
 

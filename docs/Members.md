@@ -1,6 +1,5 @@
 # OSG Council Members
 
-The OSG Council governs the OSG Consortium, ensuring that the OSG benefits the scientific mission of its stakeholders.  The Council is made of those Consortium members making significant contributions and commitments to the success of OSG.
 
 **OSG Council Representatives**
 
