@@ -1,4 +1,4 @@
-Meetings of the OSG Council are quarterly.
+Meetings of the OSG Council are held quarterly.
 
 
 ## Logistics

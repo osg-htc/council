@@ -3,7 +3,7 @@
 
 **OSG Council Representatives**
 
-| Institution or VO                                 | Representative Name                               | Affiliation                                            |
+| Stakeholder Organization                          | Representative                                    | Role                                            |
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | Brookhaven National Laboratory                    | Eric Lancon, BNL                                  | Campus users and resource provider                     |
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
