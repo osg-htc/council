@@ -14,7 +14,7 @@ The OSG Council is the governing body of the OSG Consortium.
 ### Co-Chair 
 -   [Eric Sedore](mailto:essedore@syr.edu), Syracuse University
 
-### Previous Chairs:
+### Previous Chairs
 -   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
 -   David Swanson, University of Nebraska, Lincoln
 -   Ruth Pordes, Fermilab
