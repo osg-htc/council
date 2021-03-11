@@ -8,3 +8,4 @@
 -   [Open Science Grid Consortium Voting Procedures](http://osg-docdb.opensciencegrid.org/cgi-bin/ShowDocument?docid=311) OSG DocDB Document 311.
 -   [OSG Document Database (DocDB)](http://osg-docdb.opensciencegrid.org/) contains additional documents.
 
+The OSG Executive Director [Reports to the OSG Council](https://www.opensciencegrid.org/bin/view/Council/DirectorReports)

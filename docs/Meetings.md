@@ -1,7 +1,7 @@
 Meetings of the OSG Council are quarterly.
 
 
-## Logistics:
+## Logistics
 
 Zoom coordinates are sent via email.
 
@@ -49,7 +49,6 @@ archive.
 -   February 12th, 2013
 -   January 8th, 2013
 
-#### Meeting Agenda and Minutes - 2012
 
 **Calendar Year 2012**
 
@@ -65,8 +64,6 @@ archive.
 -  March 13th, 2012 (replace by Face-to-Face mtg in Lincoln: March 22 - 23)
 -  February 14th, 2012
 -  January 10th, 2012
-
-#### Meeting Agenda and Minutes - Previous Years
 
 **Calendar Year 2011**
 
@@ -125,7 +122,7 @@ archive.
 -   May 13th, 2008
 -   April 8th, 2008
 
-**OSG Council Face-to-Face Meetings** See above for 2012 and beyond
+**Earlier OSG Council Meetings** 
 
 -   Aug 2-3rd, 2011 OSG Council Face-to-Face Meeting at Fermilab: August 2-3
 -   May 19-20th, 2011 OSG Council Face-to-Face Meeting at Fermilab
@@ -140,20 +137,4 @@ archive.
 -   March 8th 2007 at the OSG Consortium Allhands meeting at UCSD.
 -   Council meeting 24th August 2006 in Seattle
 
-OSG Executive Director [Reports to the OSG Council](https://www.opensciencegrid.org/bin/view/Council/DirectorReports)
-
-### OSG Council Subcommittees
-
-From time to time the Council establishes ad-hoc subcommittees to work with the Council Chairs and the OSG Executive Board to address strategic planning needs.  Historical subcommittee organizational pages are available in the twiki archive.
-
-2012:
-
--   Council structure
--   Industry relationships
--   Sustaining the OSG
-
-2010:
-
--   Re-Organization of OSG Council Subcommittee
--   At-Large VO Representation Subcommittee
 
