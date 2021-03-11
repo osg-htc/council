@@ -15,10 +15,11 @@ The OSG Council is the governing body of the Consortium responsible for the prog
 ### OSG Council Chair
 -   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
 
-### Past Council Chair 
--   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
+### Co-Chair 
+-   [Eric Sedore](mailto:essedore@syr.edu), Syracuse University
 
 ### Previous Council Chairs:
+-   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
 -   David Swanson, University of Nebraska, Lincoln
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
