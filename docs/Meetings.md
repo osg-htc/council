@@ -10,6 +10,7 @@ Zoom coordinates are sent via email.
 
 **Calendar year 2021**
 
+- June 24 <https://indico.fnal.gov/event/49400/>
 - Mar 4th <https://indico.fnal.gov/event/47694/>
 
 
