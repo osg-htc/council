@@ -20,9 +20,9 @@
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
 | Stanford Linear Accelerator Center                | Richard Dubois, SLAC                              | Campus users, resource provider, and theory users      |
-| Syracuse University                               | Eric Sedore, Syracuse University                  | User community and resource provider |
+| Syracuse University                               | Eric Sedore, Syracuse University                  | OSG Council Chair (acting), User community and resource provider |
 | University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
-| University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | OSG Council Chair, campus resource provider, users     | 
+| University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair (backup), campus resource provider, User community | 
 | University of Nebraska, Holland Computing Center  | Ken Bloom, University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
 | University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
 | US ATLAS Collaboration                            | Kaushik De, UT Arlington                          | User community                                         |
