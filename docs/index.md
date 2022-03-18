@@ -9,18 +9,18 @@ The OSG Council is the governing body of the OSG Consortium.
 ## Contact Information
 
 ### Chair
--   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
-
-### Co-Chair 
 -   [Eric Sedore](mailto:essedore@syr.edu), Syracuse University
 
-### Previous Chairs
+### Past Chair (backup) 
+-   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
+
+### Past Chairs
 -   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska, Lincoln
 -   David Swanson, University of Nebraska, Lincoln
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
 -   Rick Snider, Fermilab
--	Bill Kramer, Lawrence Berkeley National Laboratory
+-	  Bill Kramer, Lawrence Berkeley National Laboratory
 
 ## Members
 -   [Member List](Members.md)
