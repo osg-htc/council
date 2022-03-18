@@ -21,7 +21,7 @@
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
 | Stanford Linear Accelerator Center                | Richard Dubois, SLAC                              | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | OSG Council Chair (acting), User community and resource provider |
-| University of California San Diego                | Michael Norman, Alternate: Frank Würthwein        | Campus users and resource provider                     |
+| University of California San Diego                | Frank Würthwein                                   | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair (backup), campus resource provider, User community | 
 | University of Nebraska, Holland Computing Center  | Ken Bloom, University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
 | University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
@@ -34,6 +34,7 @@
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Michael Norman until March 2022                        | University of California San Diego                    |
 | Stefan Hoeche until March 2021                         | Stanford Linear Accelerator Center                    |
 | Craig Stewart until October 2019                       | Indiana University                                    |
 | David Swanson until August 2019                        | University of Nebraska&ndash;Lincoln and Holland Computing Center |
