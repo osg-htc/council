@@ -9,7 +9,7 @@ Zoom coordinates are sent via email.
 ## Agendas
 
 **Calendar year 2022**
-
+- June 17, 2022 <https://indico.fnal.gov/event/54452/>
 - March 17, 2022 <https://indico.fnal.gov/event/52594/>
 
 **Calendar year 2021**
