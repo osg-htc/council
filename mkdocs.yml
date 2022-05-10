@@ -1,6 +1,6 @@
 site_name: OSG Council
-site_url: https://opensciencegrid.org/council/
-repo_url: https://github.com/opensciencegrid/council/
+site_url: https://osg-htc.org/council/
+repo_url: https://github.com/osg-htc/council/
 theme: 
   name: material
   custom_dir: theme-customizations
@@ -12,4 +12,3 @@ nav:
 
 markdown_extensions:
   - admonition
-
