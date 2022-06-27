@@ -14,7 +14,7 @@
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | Indiana University                                | Rick McMullen, Indiana University                 | Campus users and resource provider                     |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
-| Jefferson Laboratory                              | Amber Boehnlein, Jefferson Laboratory             | Campus users (GlueX) and resource provider             |
+| Jefferson Laboratory                              | Amber Boehnlein, Alternate: Brad Sawatzky, Jefferson Laboratory | Campus users (GlueX) and resource provider |
 | LIGO                                              | Peter Couvares, Caltech                           | User community                                         |
 | National Energy Research Scientific Computing Center | Debbie Bard, LBNL                              | Resource provider, user community                      |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
