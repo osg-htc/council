@@ -14,7 +14,7 @@
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | Indiana University                                | Rick McMullen, Indiana University                 | Campus users and resource provider                     |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
-| Jefferson Laboratory                              | Amber Boehnlein, Alternate: Brad Sawatzky, Jefferson Laboratory | Campus users (GlueX) and resource provider |
+| Jefferson Laboratory                              | Amber Boehnlein (Alternate: Brad Sawatzky), Jefferson Laboratory | Campus users (GlueX) and resource provider |
 | LIGO                                              | Peter Couvares, Caltech                           | User community                                         |
 | National Energy Research Scientific Computing Center | Debbie Bard, LBNL                              | Resource provider, user community                      |
 | SBGRID                                            | Piotr Sliz                                        | User community                                         |
@@ -23,7 +23,7 @@
 | Syracuse University                               | Eric Sedore, Syracuse University                  | OSG Council Chair, User community and resource provider |
 | University of California San Diego                | Frank Würthwein                                   | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair, campus resource provider, User community | 
-| University of Nebraska, Holland Computing Center  | Ken Bloom, Alternate: Hongfeng Yu, University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
+| University of Nebraska, Holland Computing Center  | Ken Bloom (Alternate: Hongfeng Yu), University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
 | University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
 | US ATLAS Collaboration                            | Verena Martinez Outschoorn, University of Massachusetts Amherst | User community                                         |
 | US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab  | User community                                     |
