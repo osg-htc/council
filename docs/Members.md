@@ -34,6 +34,7 @@
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Kaushik De until August 2022                           | University of Texas at Arlington                      |
 | Michael Norman until March 2022                        | University of California San Diego                    |
 | Stefan Hoeche until March 2021                         | Stanford Linear Accelerator Center                    |
 | Craig Stewart until October 2019                       | Indiana University                                    |
