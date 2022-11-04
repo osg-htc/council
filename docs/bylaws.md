@@ -138,6 +138,7 @@ The initial bylaws and charter were accepted by consensus.
 ## Change History
 
 | V.2.2 | 2020/03 | JL/KB | Reshaped bylaws to reflect new structure, Council Chairpersons (chair and chair-elect) |
+|-------|-------|-------|-------|
 | V2.1 | 2015/01 | FKW, CSS, RP, BJ | Added the concept of sharing eco-system and consortium member’s role in maximizing sharing. |
 | V2.0 | 2013/03 | AB, VW, KM, RP | Combined bylaws and voting, cleared up text for inconsistencies. Made role of ET clear. Remove Scientific Advisory Group<br>Added Purpose; Define the Executive Team; Define Council Membership; Define participation expectations, alternates, proxies*; Define high level responsibilities; Deleted member lists – will be post on the web |
 | V1.0.3 | 8/24/05 | wtck | Updates based on funding agreements and other originating documents. |
