@@ -3,11 +3,11 @@
 ## Purpose of the OSG Consortium
 
 The OSG Consortium is a consortium of scientific collaborations,
-scientific computing centers and existing and new grid research and deployment
+scientific computing centers, and existing and new grid research and deployment
 projects, involving both computational and application scientists, working
-together to provide and support the set of facilities, services and
+together to provide and support the set of facilities, services, and
 infrastructure needed to provide a persistent national grid infrastructure for
-large scale US science: the OSG.
+large-scale US science: the OSG.
 
 ## Organizational Structure
 
@@ -36,7 +36,7 @@ Executive Team (the organizational structure is detailed in
 Consortium membership occurs through completed registration of
 a resource, VO, or other organization with the OSG through an operations registration process.
 Consortium members contribute to and/or benefit directly from
-the resources, use, operations and/or other activities.
+the resources, use, operations, and/or other activities.
 Consortium members recognize that the OSG is a sharing ecosystem and
 strive to maximize the sharing of computing resources, software, and other assets to enable science.
 
@@ -104,7 +104,7 @@ It is the intention that OSG Council members actively participate
 in Council and Consortium activities on a regular basis.
 Activities include teleconference, video-conferences, face-to-face meetings,
 email voting, contributing to the work of the Council, etc.
-A regular basis is defined as participation in at least 1⁄2 of the Council events during a 6-month period.
+A regular basis is defined as participation in at least half of the Council events during a 6-month period.
 
 ### Alternates
 
