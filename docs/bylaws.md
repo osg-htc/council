@@ -7,7 +7,7 @@ scientific computing centers, and existing and new grid research and deployment
 projects, involving both computational and application scientists, working
 together to provide and support the set of facilities, services, and
 infrastructure needed to provide a persistent national grid infrastructure for
-large-scale US science: the OSG.
+large-scale US science.
 
 ## Organizational Structure
 
@@ -29,18 +29,19 @@ Executive Team (the organizational structure is detailed in
     represent the OSG Consortium in dealing with other organizations and committees.
     All appointments to the Executive Team are subject to Council approval.
 
-**Note:** Users of and providers to the OSG do not need to be affiliated with OSG member organizations.
+**Note:** Users of OSG services and providers of capacity to the Open Science Compute and Data Federations
+do not need to be affiliated with OSG member organizations.
 
 ## Membership of the OSG Consortium
 
 Consortium membership occurs through completed registration of
-a resource, VO, or other organization with the OSG through an operations registration process.
+a resource, VO, or other organization with the Consortium through an operations registration process.
 Consortium members contribute to and/or benefit directly from
 the resources, use, operations, and/or other activities.
-Consortium members recognize that the OSG is a sharing ecosystem and
+Consortium members recognize that the OSG fabric of services is a sharing ecosystem and
 strive to maximize the sharing of computing resources, software, and other assets to enable science.
 
-Consortium partners collaborate with the OSG as peer organizations.
+Consortium partners collaborate with the Consortium as peer organizations.
 Their representatives have ex-officio status on any of the management boards in which they participate.
 The Executive Team develops agreements with the management of the partner organizations
 to define the expectations and activities of the collaboration.
