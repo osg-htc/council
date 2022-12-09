@@ -3,7 +3,7 @@
 The OSG Council is the governing body of the OSG Consortium.
 
 ## Governance
--   [OSG Bylaws](documents/OSG-By-Laws-2020%20-%20v2.pdf)
+-   [OSG Bylaws](bylaws.md)
 -   [Full set of governance documents](GovernanceDocs.md)
 -   [OSG Code of Conduct](https://osg-htc.org/code-of-conduct)
 
