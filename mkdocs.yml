@@ -6,9 +6,10 @@ theme:
   custom_dir: theme-customizations
 
 nav:
-- Home: 'index.md'
-- Membership: 'Members.md'
-- Meetings: 'Meetings.md'
+- Home:         index.md
+- Membership:   Members.md
+- Meetings:     Meetings.md
+- Bylaws:       bylaws.md
 
 markdown_extensions:
   - admonition

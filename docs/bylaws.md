@@ -140,10 +140,10 @@ The initial bylaws and charter were accepted by consensus.
 
 | Vers | Date | Authors | Purpose |
 | --- | --- | --- | --- |
-| &mdash; | 2022/11 | TAC | Minor editorial updates |
-| V.2.2 | 2020/03 | JL/KB | Reshaped bylaws to reflect new structure, Council Chairpersons (Chair and Chair-elect) |
+| V3.1 | 2022/11 | TAC | Minor editorial updates |
+| V3.0 | 2020/03 | JL/KB | Reshaped bylaws to reflect new structure, Council Chairpersons (Chair and Chair-elect) |
 | V2.1 | 2015/01 | FKW, CSS, RP, BJ | Added the concept of sharing eco-system and Consortium member’s role in maximizing sharing. |
 | V2.0 | 2013/03 | AB, VW, KM, RP | Combined bylaws and voting, cleared up text for inconsistencies. Made role of ET clear. Remove Scientific Advisory Group<br>Added Purpose; Define the Executive Team; Define Council membership; Define participation expectations, alternates, proxies*; Define high level responsibilities; Deleted member lists – will be post on the web |
-| V1.0.3 | 8/24/05 | wtck | Updates based on funding agreements and other originating documents. |
-| v.1.0.1 | 3/10/05 | fkw | Added D.Olson to exec. Board as of Feb.9 2005 |
+| V1.3 | 8/24/05 | wtck | Updates based on funding agreements and other originating documents. |
+| V1.1 | 3/10/05 | fkw | Added D.Olson to exec. Board as of Feb.9 2005 |
 | V1.0 | 2/18/05 | fkw | TG-Governance ratified text |
