@@ -8,8 +8,14 @@ Zoom coordinates are sent via email.
 
 ## Agendas
 
+
+**Calendar year 2023**
+
+- April 19th, 2023 <https://indico.fnal.gov/event/59477/>
+
 **Calendar year 2022**
 
+- December 13th, 2022 <https://indico.fnal.gov/event/57529/>
 - September 29th, 2022 <https://indico.fnal.gov/event/56252/>
 - June 17, 2022 <https://indico.fnal.gov/event/54452/>
 - March 17, 2022 <https://indico.fnal.gov/event/52594/>
