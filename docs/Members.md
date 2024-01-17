@@ -7,7 +7,7 @@
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | Brookhaven National Laboratory                    | Eric Lancon, BNL                                  | Campus users and resource provider                     |
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
-| DUNE                                              | Michael Kirby, Alternate: Ken Herner, Fermilab    | User community |
+| DUNE-US                                           | Michael Kirby, Alternate: Ken Herner, Fermilab    | User community |
 | Energy Sciences Network (ESnet)                   | Inder Monga, LBNL                                 | Resource provider |
 | Fermi National Accelerator Laboratory             | Elizabeth Sexton-Kennedy, Alternate: Burt Holzman, Fermilab | Campus users and resource provider           |
 | HTCondor Project                                  | Miron Livny, University of Wisconsin, Madison     | Software provider                                      |
