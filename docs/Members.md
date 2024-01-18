@@ -25,7 +25,7 @@
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair, campus resource provider, User community | 
 | University of Nebraska, Holland Computing Center  | Ken Bloom (Alternate: Hongfeng Yu), University of Nebraska, Lincoln        | Past OSG Council Chair and resource provider           |
 | University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
-| US ATLAS Collaboration                            | Verena Martinez Outschoorn, University of Massachusetts Amherst | User community                                         |
+| US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; alternate: Paolo Calafiura, Berkeley Lab | User community |
 | US CMS Collaboration                              | Oliver Gutsche, Alternate: Margaret Votava, Fermilab  | User community                                     |
 
 
