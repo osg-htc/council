@@ -25,7 +25,7 @@
 | University of Nebraska, Holland Computing Center | Ken Bloom, _alternate_ Hongfeng Yu; University of Nebraska–Lincoln | Past OSG Council Chair and resource provider |
 | University of Pittsburgh Brain Trauma Research Center | Don Krieger, University of Pittsburgh         | Research user                                          |
 | US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; _alternate_ Paolo Calafiura, Berkeley Lab | User community |
-| US CMS Collaboration | Oliver Gutsche, _alternate_ Margaret Votava; Fermilab | User community |
+| US CMS Collaboration | Oliver Gutsche, _alternate_ Dirk Hufnagel; Fermilab | User community |
 
 ## Former OSG Council Members
 
