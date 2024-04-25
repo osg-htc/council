@@ -11,12 +11,10 @@
 | Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; Fermilab | Campus users and resource provider |
 | HTCondor Project | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
-| Indiana University                                | Rick McMullen, Indiana University                 | Campus users and resource provider                     |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University                 | User community                                         |
 | Jefferson Laboratory | Amber Boehnlein, _alternate_ Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider |
 | LIGO | Peter Couvares, Caltech | User community |
 | National Energy Research Scientific Computing Center | Debbie Bard, Berkeley Lab | Resource provider, user community |
-| SBGRID                                            | Piotr Sliz                                        | User community                                         |
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
 | Stanford Linear Accelerator Center                | Richard Dubois, SLAC                              | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | OSG Council Chair, User community and resource provider |
@@ -31,6 +29,8 @@
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Piotr Sliz until April 2024                            | SBGRID                                                |
+| Rick McMullen until April 2024                         | Indiana University                                    |
 | Kaushik De until August 2022                           | University of Texas at Arlington                      |
 | Michael Norman until March 2022                        | University of California San Diego                    |
 | Stefan Hoeche until March 2021                         | Stanford Linear Accelerator Center                    |
