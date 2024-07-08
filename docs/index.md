@@ -10,13 +10,14 @@ The OSG Council is the governing body of the OSG Consortium.
 ## Contact Information
 
 ### Chair
--   [Eric Sedore](mailto:essedore@syr.edu), Syracuse University
+-   [Elizabeth Sexton-Kennedy](mailto:sexton@fnal.gov), Fermi National Accelerator Laboratory
 
 ### Past Chair (backup) 
--   [Rob Gardner](mailto:rwg@uchicago.edu), University of Chicago
+-   [Eric Sedore](mailto:essedore@syr.edu), Syracuse University
 
 ### Past Chairs
--   [Ken Bloom](mailto:kenbloom@unl.edu), University of Nebraska&ndash;Lincoln
+-   Rob Gardner, University of Chicago
+-   Ken Bloom, University of Nebraska&ndash;Lincoln
 -   David Swanson, University of Nebraska&ndash;Lincoln
 -   Ruth Pordes, Fermilab
 -   Paul Avery, University of Florida
