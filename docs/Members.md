@@ -11,7 +11,7 @@
 | Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; Fermilab | Campus users and resource provider |
 | HTCondor Project | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
-| IRIS-HEP Software Institute                       | Peter Elmer, Princeton University, _alternate_ Brian Bockelman, Morgridge Institute for Research           | User community                                         |
+| IRIS-HEP Software Institute                       | Peter Elmer, Princeton University, _alternate_ Brian Bockelman; Morgridge Institute for Research           | User community                                         |
 | Jefferson Laboratory | Amber Boehnlein, _alternate_ Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider
 | LIGO | Peter Couvares, Caltech | User community |
 | National Energy Research Scientific Computing Center | Debbie Bard, Berkeley Lab | Resource provider, user community |
@@ -28,7 +28,7 @@
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
-| Richard Dubois                                         | Stanford Linear Accelerator Center                    |
+| Richard Dubois until July 2024                         | Stanford Linear Accelerator Center                    |
 | Don Krieger                                            | University of Pittsburgh                              |                                                                       
 | Eric Lancon                                            | Brookhaven National Laboratory                        |
 | Piotr Sliz until April 2024                            | SBGRID                                                |
