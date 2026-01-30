@@ -8,6 +8,14 @@ Zoom coordinates are sent via email.
 
 ## Agendas
 
+**Calendar year 2026**
+
+- January 22nd, 2026 <https://agenda.hep.wisc.edu/event/2429/>
+
+**Calendar year 2025**
+
+- December 1st, 2025 <https://agenda.hep.wisc.edu/event/2429/>
+- June 4th, 2025 
 
 **Calendar year 2023**
 
