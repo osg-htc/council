@@ -8,7 +8,7 @@
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
 | DUNE-US | Ken Herner, Fermilab; _alternate_ Michael Kirby, BNL | User community |
 | Energy Sciences Network (ESnet) | Inder Monga, Berkeley Lab | Resource provider |
-| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; OSG Council Chair | Campus users and resource provider |
+| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; | OSG Council Chair and Campus users and resource provider |
 | HTCondor Project | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University; _alternate_ Brian Bockelman, Morgridge Institute for Research | User community |
