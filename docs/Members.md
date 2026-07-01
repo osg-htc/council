@@ -18,7 +18,7 @@
 | Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
 | SLAC National Accelerator Laboratory              | Adam Bolton, SLAC                                 | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | Past OSG Council Chair, User community and resource provider |
-| University of California San Diego                | Frank Würthwein                                   | OSG Executive Director and Campus users and resource provider                     |
+| University of California San Diego                | Frank Würthwein                                   | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair, campus resource provider, User community |
 | University of Nebraska, Holland Computing Center | Ken Bloom, _alternate_ Hongfeng Yu; University of Nebraska–Lincoln | Past OSG Council Chair and resource provider |
 | US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; _alternate_ Paolo Calafiura, Berkeley Lab | User community |
