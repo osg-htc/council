@@ -9,13 +9,13 @@
 | DUNE-US | Ken Herner, Fermilab; _alternate_ Michael Kirby, BNL | User community |
 | Energy Sciences Network (ESnet) | Inder Monga, Berkeley Lab | Resource provider |
 | Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; | OSG Council Chair and Campus users and resource provider |
-| HTCondor Project | Miron Livny, University of Wisconsin–Madison | Software provider |
+| PATh Partnership | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | Benedikt Riedel, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University; _alternate_ Brian Bockelman, Morgridge Institute for Research | User community |
 | Jefferson Laboratory | Amber Boehnlein, _alternate_ Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider |
-| LIGO | Peter Couvares, Caltech |  OSG Executive Director-Elect and User community |
-| National Energy Research Scientific Computing Center | Debbie Bard, Berkeley Lab | Resource provider, user community |
-| Solenoid Tracker at RHIC - STAR                   | Jerome Lauret, BNL                                | User community                                         |
+| LIGO | Peter Couvares, Caltech |  OSG Executive Director and User community |
+| Lawrence Berkely National Laboratory | Debbie Bard, Berkeley Lab | Resource provider, user community |
+| Brookhaven National Laboratory                 | Jerome Lauret, BNL                                | User community                                         |
 | SLAC National Accelerator Laboratory              | Adam Bolton, SLAC                                 | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | Past OSG Council Chair, User community and resource provider |
 | University of California San Diego                | Frank Würthwein                                   | Campus users and resource provider                     |
