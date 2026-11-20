@@ -8,13 +8,13 @@
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
 | DUNE-US | Ken Herner, Fermilab; _alternate_ Michael Kirby, BNL | User community |
 | Energy Sciences Network (ESnet) | Inder Monga, Berkeley Lab | Resource provider |
-| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Burt Holzman; | OSG Council Chair and Campus users and resource provider |
+| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Oliver Gutsche; | OSG Council Chair and Campus users and resource provider |
 | PATh Partnership | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | David Schultz, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University; _alternate_ Brian Bockelman, Morgridge Institute for Research | User community |
-| Jefferson Laboratory | Amber Boehnlein, _alternate_ Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider |
+| Jefferson Laboratory | Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider |
 | LIGO | Peter Couvares, Caltech |  OSG Executive Director and User community |
-| Lawrence Berkely National Laboratory | Debbie Bard, Berkeley Lab | Resource provider, user community |
+| Lawrence Berkely National Laboratory | Wahid Bhimji, Berkeley Lab | Resource provider, user community |
 | Brookhaven National Laboratory                 | Jerome Lauret, BNL                                | User community                                         |
 | SLAC National Accelerator Laboratory              | Adam Bolton, SLAC                                 | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | Past OSG Council Chair, User community and resource provider |
@@ -22,14 +22,16 @@
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair, campus resource provider, User community |
 | University of Nebraska, Holland Computing Center | Ken Bloom, _alternate_ Hongfeng Yu; University of Nebraska–Lincoln | Past OSG Council Chair and resource provider |
 | US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; _alternate_ Paolo Calafiura, Berkeley Lab | User community |
-| US CMS Collaboration | Oliver Gutsche, _alternate_ Dirk Hufnagel; Fermilab | User community |
+| US CMS Collaboration | Tulika Bose, University of Wisconsin-Madison, _alternate_ Dirk Hufnagel; Fermilab | User community |
 
 ## Former OSG Council Members
 
 | Member name/dates                                      | Affiliation                                           |
 |:-------------------------------------------------------|:------------------------------------------------------|
+| Debbie Bard until November 2026                        | Lawrence Berkely National Laboratory                  |
+| Amber Boehnlein until March 2026                       | Thomas Jefferson National Laboratory                  |
 | Richard Dubois until July 2024                         | SLAC National Accelerator Laboratory                  |
-| Don Krieger                                            | University of Pittsburgh                              |                                                                       
+| Don Krieger                                            | University of Pittsburgh                              |
 | Eric Lancon                                            | Brookhaven National Laboratory                        |
 | Piotr Sliz until April 2024                            | SBGRID                                                |
 | Rick McMullen until April 2024                         | Indiana University                                    |
