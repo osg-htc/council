@@ -6,23 +6,23 @@
 |:--------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------|
 | Brookhaven National Laboratory                    | Alexei Klimentov, BNL                             | Campus users and resource provider                     |
 | DOSAR Collaboration                               | Horst Severini, University of Oklahoma            | Education                                              |
-| DUNE-US | Ken Herner, Fermilab; _alternate_ Michael Kirby, BNL | User community |
-| Energy Sciences Network (ESnet) | Inder Monga, Berkeley Lab | Resource provider |
-| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, _alternate_ Oliver Gutsche; | OSG Council Chair and Campus users and resource provider |
+| DUNE-US | Ken Herner, FNAL; _alternate_ Michael Kirby, BNL | User community |
+| Energy Sciences Network (ESnet) | Inder Monga; _alternate_  Eli Dart | Resource provider |
+| Fermi National Accelerator Laboratory | Elizabeth Sexton-Kennedy, FNAL; _alternate_ Oliver Gutsche, FNAL | OSG Council Chair and Campus users and resource provider |
 | PATh Partnership | Miron Livny, University of Wisconsin–Madison | Software provider |
 | IceCube Collaboration                             | David Schultz, Wisconsin IceCube Particle Astrophysics Center | User community                           |
 | IRIS-HEP Software Institute                       | Peter Elmer, Princeton University; _alternate_ Brian Bockelman, Morgridge Institute for Research | User community |
-| Jefferson Laboratory | Brad Sawatzky; Jefferson Laboratory | Campus users (GlueX) and resource provider |
+| Jefferson Laboratory | Brad Sawatzky, Jefferson Laboratory | Campus users (GlueX) and resource provider |
 | LIGO | Peter Couvares, Caltech |  OSG Executive Director and User community |
 | Lawrence Berkely National Laboratory | Wahid Bhimji, Berkeley Lab | Resource provider, user community |
 | Brookhaven National Laboratory                 | Jerome Lauret, BNL                                | User community                                         |
 | SLAC National Accelerator Laboratory              | Adam Bolton, SLAC                                 | Campus users, resource provider, and theory users      |
 | Syracuse University                               | Eric Sedore, Syracuse University                  | Past OSG Council Chair, User community and resource provider |
-| University of California San Diego                | Frank Würthwein                                   | Campus users and resource provider                     |
+| University of California San Diego                | Frank Würthwein, UCSD/SDSC                                   | Campus users and resource provider                     |
 | University of Chicago, Physical Sciences Division | Rob Gardner, UChicago                             | Past OSG Council Chair, campus resource provider, User community |
-| University of Nebraska, Holland Computing Center | Ken Bloom, _alternate_ Hongfeng Yu; University of Nebraska–Lincoln | Past OSG Council Chair and resource provider |
-| US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; _alternate_ Paolo Calafiura, Berkeley Lab | User community |
-| US CMS Collaboration | Tulika Bose, University of Wisconsin-Madison, _alternate_ Dirk Hufnagel; Fermilab | User community |
+| University of Nebraska, Holland Computing Center | Ken Bloom, UNL; _alternate_ Hongfeng Yu, UNL | Past OSG Council Chair and resource provider |
+| US ATLAS Collaboration | Verena Martinez Outschoorn, University of Massachusetts Amherst; _alternate_ Paolo Calafiura, LBNL | User community |
+| US CMS Collaboration | Tulika Bose, University of Wisconsin-Madison; _alternate_ Dirk Hufnagel, FNAL | User community |
 
 ## Former OSG Council Members
 
